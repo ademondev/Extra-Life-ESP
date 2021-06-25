@@ -1,0 +1,42 @@
+1) Find the right icon for your language, it must be declined in two versions, normal and a version where the opacity is 50%.
+    - The size of the icon must be 75 x 75
+    - https://www.flaticon.com/packs/flags-3  (link to get your flag)
+
+2) You have to create a json file which will include these few lines...
+
+{
+    "translation_id": "english", 
+    "language": "English",
+    "icon": "tl/english/english_idle.png",
+    "icon-hover":"tl/english/english_hover.png"
+  }
+
+3) The default language it's in French (sorry) 
+you will have to use the English translation to translate in your language,
+it will not make it easier for you and I apologize.
+
+
+4) Here's an example
+
+# game/scripts/story/ancient district/dojo/dojo_exterior.rpy:58
+translate german dojo_exterior_dd982f53:
+
+    # player "Rien qu'à l'entrée, on est déjà bien dans l'ambiance." id dojo_exterior_dd982f53
+    player "" id dojo_exterior_dd982f53
+
+You just have to put between "" your translation
+
+At some point there will be strange characters such as \n 
+they are necessary and allow a line break, they are mostly used for the clues on the side
+
+5) OPTIONNAL
+The default font used in the game may not be suitable for all languages. In this case you have to create a .rpy file which will contain these two lines
+
+translate mylanguage style default:
+    font "tl/mylanguage/suitablefont.ttf"
+    
+
+
+Once you are done, you just have to copy and paste your file in the game's tl folder and choose your language in the game.
+I hope I have been clear enough, if you have any questions ask them in the translation channel of the discord.
+Thanks to you
