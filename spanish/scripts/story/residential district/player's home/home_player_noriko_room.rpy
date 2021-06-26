@@ -4,163 +4,163 @@
 translate spanish home_player_noriko_room_b9b10a29:
 
     # noriko "HEY ! T'AS RIEN A FAIRE DANS MA CHAMBRE !" id home_player_noriko_room_b9b10a29
-    noriko "" id home_player_noriko_room_b9b10a29
+    noriko "¿Que crees que estas haciendo?" id home_player_noriko_room_b9b10a29
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:35
 translate spanish home_player_noriko_room_41613f0d:
 
     # player "Arrete ça, tu sais très bien pourquoi je suis là !" id home_player_noriko_room_41613f0d
-    player "" id home_player_noriko_room_41613f0d
+    player "Oh callate ya sabes porque estoy aqui." id home_player_noriko_room_41613f0d
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:36
 translate spanish home_player_noriko_room_a4009c4c:
 
     # noriko -furious "..." id home_player_noriko_room_a4009c4c
-    noriko -furious "" id home_player_noriko_room_a4009c4c
+    noriko -furious "..." id home_player_noriko_room_a4009c4c
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:37
 translate spanish home_player_noriko_room_bd8a548e:
 
     # player "Je t'ai déja prévenu plusieurs fois." id home_player_noriko_room_bd8a548e
-    player "" id home_player_noriko_room_bd8a548e
+    player "Te adverti que si te metias en mi camino una vez mas..." id home_player_noriko_room_bd8a548e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:38
 translate spanish home_player_noriko_room_453dbe3a:
 
     # player "Et je t'ai déja dit que si tu recommençais j'allais m'occuper de toi." id home_player_noriko_room_453dbe3a
-    player "" id home_player_noriko_room_453dbe3a
+    player "me haria cargo de ti." id home_player_noriko_room_453dbe3a
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:39
 translate spanish home_player_noriko_room_8ee5c0d0:
 
     # noriko "Tu crois que tu me fais peur ?" id home_player_noriko_room_8ee5c0d0
-    noriko "" id home_player_noriko_room_8ee5c0d0
+    noriko "No me asustas." id home_player_noriko_room_8ee5c0d0
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:40
 translate spanish home_player_noriko_room_85be0407:
 
     # noriko "Pose a peine un doigt sur moi et tu peux etre sur que j'irais voir maman et lui dirait que tu m'as violé par le passé !" id home_player_noriko_room_85be0407
-    noriko "" id home_player_noriko_room_85be0407
+    noriko "Pon un dedo sobre mi, y mamá va a escuchar mis gritos por toda la ciudad. ¿A quien crees que creera? ¿A mi o a ti?" id home_player_noriko_room_85be0407
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:49
 translate spanish home_player_noriko_room_7ffd9815:
 
     # x "Nous y voila..." id home_player_noriko_room_7ffd9815
-    x "" id home_player_noriko_room_7ffd9815
+    x "Ahi esta..." id home_player_noriko_room_7ffd9815
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:50
 translate spanish home_player_noriko_room_8c087e43:
 
     # x "J'ai bien la preuve que ce n'était pas qu'un simple rêve." id home_player_noriko_room_8c087e43
-    x "" id home_player_noriko_room_8c087e43
+    x "Prueba de que no era solo un sueño..." id home_player_noriko_room_8c087e43
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:51
 translate spanish home_player_noriko_room_6c7476b4:
 
     # x "Tout ce que j'ai vécu c'est rellement produit !" id home_player_noriko_room_6c7476b4
-    x "" id home_player_noriko_room_6c7476b4
+    x "¡Era la realidad!" id home_player_noriko_room_6c7476b4
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:52
 translate spanish home_player_noriko_room_f0f3b580:
 
     # x "Je dois sortir mon meilleur jeux d'acteur." id home_player_noriko_room_f0f3b580
-    x "" id home_player_noriko_room_f0f3b580
+    x "Esta bien sera mejor que siga hablando..." id home_player_noriko_room_f0f3b580
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:53
 translate spanish home_player_noriko_room_547cf7f2:
 
     # x "et faire en sorte de révéler toute sa vraie personnalité." id home_player_noriko_room_547cf7f2
-    x "" id home_player_noriko_room_547cf7f2
+    x "Ella va a mostrar su verdadero ser eventualmente..." id home_player_noriko_room_547cf7f2
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:63
 translate spanish home_player_noriko_room_d6aa7458:
 
     # player surprised "Mais... T'es completement folle ?!" id home_player_noriko_room_d6aa7458
-    player surprised "" id home_player_noriko_room_d6aa7458
+    player surprised "¡¿Estas loca?!" id home_player_noriko_room_d6aa7458
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:64
 translate spanish home_player_noriko_room_db77f6fb:
 
     # player upset "Tu sais très bien que j'ai jamais fait un truc pareil !!!" id home_player_noriko_room_db77f6fb
-    player upset "" id home_player_noriko_room_db77f6fb
+    player upset "¡Nunca haria algo asi!" id home_player_noriko_room_db77f6fb
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:65
 translate spanish home_player_noriko_room_0b5ed9e7:
 
     # player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} ne croira jamais un mensonge pareil !" id home_player_noriko_room_0b5ed9e7
-    player "" id home_player_noriko_room_0b5ed9e7
+    player "¡{color=#a29bfe}{b}[yasuka_name]{/b}{/color} nunca te creeria!" id home_player_noriko_room_0b5ed9e7
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:66
 translate spanish home_player_noriko_room_61aada6b:
 
     # noriko "Pfff... Peu importe si c'est pas la vérité !" id home_player_noriko_room_61aada6b
-    noriko "" id home_player_noriko_room_61aada6b
+    noriko "En verdad no entiendes nada ¿eh?" id home_player_noriko_room_61aada6b
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:67
 translate spanish home_player_noriko_room_94f22c85:
 
     # noriko "Maman croira tout ce que je lui dirais !" id home_player_noriko_room_94f22c85
-    noriko "" id home_player_noriko_room_94f22c85
+    noriko "¡Mamá cree en todo lo que digo!" id home_player_noriko_room_94f22c85
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:68
 translate spanish home_player_noriko_room_22afa39e:
 
     # noriko "Surtout si je lui dit qu'on a fait du mal a sa petite chérie..." id home_player_noriko_room_22afa39e
-    noriko "" id home_player_noriko_room_22afa39e
+    noriko "Y si le digo que lastimaste a su preciada niña..." id home_player_noriko_room_22afa39e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:69
 translate spanish home_player_noriko_room_ed6623a0:
 
     # player sad "..." id home_player_noriko_room_ed6623a0
-    player sad "" id home_player_noriko_room_ed6623a0
+    player sad "..." id home_player_noriko_room_ed6623a0
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:70
 translate spanish home_player_noriko_room_a4668afa:
 
     # noriko "Bien... Je pense que tu comprends ce qu'il va arriver..." id home_player_noriko_room_a4668afa
-    noriko "" id home_player_noriko_room_a4668afa
+    noriko "Bueno, creo que puedes imaginar el resto..." id home_player_noriko_room_a4668afa
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:71
 translate spanish home_player_noriko_room_9d2bd8fd:
 
     # player happy "J'en ai peur..." id home_player_noriko_room_9d2bd8fd
-    player happy "" id home_player_noriko_room_9d2bd8fd
+    player happy "Si, tienes razon..." id home_player_noriko_room_9d2bd8fd
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:72
 translate spanish home_player_noriko_room_29cd7803:
 
     # noriko "..." id home_player_noriko_room_29cd7803
-    noriko "" id home_player_noriko_room_29cd7803
+    noriko "..." id home_player_noriko_room_29cd7803
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:73
 translate spanish home_player_noriko_room_7f4df03b:
 
     # noriko furious "Pourquoi t'es en train de sourire ?" id home_player_noriko_room_7f4df03b
-    noriko furious "" id home_player_noriko_room_7f4df03b
+    noriko furious "¿Por qué sonries?" id home_player_noriko_room_7f4df03b
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:74
 translate spanish home_player_noriko_room_ee4eaef2:
 
     # noriko "Tu réalise ce qui va arriver pour toi ?" id home_player_noriko_room_ee4eaef2
-    noriko "" id home_player_noriko_room_ee4eaef2
+    noriko "¿Escuchaste algo de lo que te dije?" id home_player_noriko_room_ee4eaef2
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:75
 translate spanish home_player_noriko_room_d1124181:
 
     # noriko "C'est ton cerveau qui a laché gros débile ?" id home_player_noriko_room_d1124181
-    noriko "" id home_player_noriko_room_d1124181
+    noriko "¿Acaso tu ultima neurona finalmente se rindio?" id home_player_noriko_room_d1124181
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:76
 translate spanish home_player_noriko_room_48a9f185:
 
     # noriko "Tu vas commencer par me donner tout ton argent !" id home_player_noriko_room_48a9f185
-    noriko "" id home_player_noriko_room_48a9f185
+    noriko "Bueno, en cualquier caso vas a empezar a darme todo tu dinero." id home_player_noriko_room_48a9f185
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:77
 translate spanish home_player_noriko_room_8774f8f6:
 
     # noriko "Ensuite tu sera mon chien !" id home_player_noriko_room_8774f8f6
-    noriko "" id home_player_noriko_room_8774f8f6
+    noriko "Vas a ser mi perro, ¿entiendes?" id home_player_noriko_room_8774f8f6
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:78
 translate spanish home_player_noriko_room_68771bf7:
@@ -172,7 +172,7 @@ translate spanish home_player_noriko_room_68771bf7:
 translate spanish home_player_noriko_room_50dd8dd0:
 
     # noriko furious "POURQUOI TU SOURIS COMME UN PUTAIN D'ATTARDE ?!!" id home_player_noriko_room_50dd8dd0
-    noriko furious "" id home_player_noriko_room_50dd8dd0
+    noriko furious "¡¿POR QUÉ ESTAS SONRIENDO COMO UN MALDITO IDIOTA?!" id home_player_noriko_room_50dd8dd0
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room.rpy:80
 translate spanish home_player_noriko_room_6a052d56:

@@ -5,7 +5,3 @@ translate spanish strings:
     # game/scripts/screens/residential district/player's home/s_home_player_room.rpy:79
     old "Vous recupérer le balladeur mp3"
     new "Vuelves a obtener el mp3"
-
-    # game/scripts/screens/residential district/player's home/s_home_player_room.rpy:35
-    old "RETOUR"
-    new "Retroceder"
