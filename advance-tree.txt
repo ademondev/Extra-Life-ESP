@@ -36,20 +36,20 @@ scripts/
         day_night (done)
         quit (done)
         s_choice_rename (done)
-        skip (skip)
+        skip (done)
     story/
-        action/
-            pc_noriko
-            sleep
-        ancient district/
-            dojo/
-                dojo_exterior
+        action/ (done)
+            pc_noriko (done)
+            sleep (done)
+        ancient district/ (done)
+            dojo/ (done)
+                dojo_exterior (done)
         business district/
-            restaurant/
-                restaurant_exterior
-        residential district/
-            player's home/
-            home_player_wifi
+            restaurant/ (done)
+                restaurant_exterior (done)
+        residential district/ 
+            player's home/ (me faltan 2)
+            home_player_wifi (done)
         talking/
             talk_chef
             talk_chiaki
