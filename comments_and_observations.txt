@@ -1,1 +1,3 @@
 interface.py: algunos diálogos se encontraban en inglés pero no en español
+s_home_players_room.py: algunos diálogos se encontraban en inglés pero no en español
+s_city.py: algunos diálogos se encontraban en inglés pero no en español
