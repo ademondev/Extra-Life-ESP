@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/fondations/inventory.rpy:54
     old "Votre inventaire est vide."
-    new ""
+    new "Tu inventario está vacío."
 

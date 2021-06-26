@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_sprites.rpy:34
     old "> PERSONNAGES"
-    new ""
+    new "> PERSONAJES"
 

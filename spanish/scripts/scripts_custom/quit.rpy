@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/scripts_custom/quit.rpy:3
     old "< RETOUR"
-    new ""
+    new "< ATRÁS"
 

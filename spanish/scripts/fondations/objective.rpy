@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/fondations/objective.rpy:12
     old "Sur le menu des objectifs vous pouvez avoir un maximum de [max_objective] personnages dont vous pouvez suivre la progression."
-    new ""
+    new "En la pantalla principal puedes tener un máximo de [max_objective] personajes cuyo progreso puedes seguir."
 

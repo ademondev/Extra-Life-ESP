@@ -252,7 +252,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1674
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Rueda del mouse para arriba\nHaga click en "
+    new "Rueda del mouse para arriba\nHaga click en rollback"
 
     # game/scripts/fondations/core/screens.rpy:1678
     old "Molette vers le bas"
@@ -264,45 +264,45 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1689
     old "Left Trigger\nLeft Shoulder"
-    new ""
+    new "Gatillo izquierdo\nHombro izquierdo"
 
     # game/scripts/fondations/core/screens.rpy:1693
     old "Bouton R1"
-    new ""
+    new "Botón R1"
 
     # game/scripts/fondations/core/screens.rpy:1698
     old "Boutons directionnels, stick gauche"
-    new ""
+    new "Botones direccionales, stick izquierdo"
 
     # game/scripts/fondations/core/screens.rpy:1702
     old "Start, Guide"
-    new ""
+    new "Empezar, Guía"
 
     # game/scripts/fondations/core/screens.rpy:1706
     old "Y/Bouton du haut"
-    new ""
+    new "Y/Botón superior"
 
     # game/scripts/fondations/core/screens.rpy:1709
     old "Calibrage"
-    new ""
+    new "Calibrar"
 
     # game/scripts/fondations/core/screens.rpy:1777
     old "Oui"
-    new ""
+    new "Yes"
 
     # game/scripts/fondations/core/screens.rpy:1781
     old "Non"
-    new ""
+    new "No"
 
     # game/scripts/fondations/core/screens.rpy:1832
     old "Avance rapide"
-    new ""
+    new "Avance rápido"
 
     # game/scripts/fondations/core/screens.rpy:2058
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/scripts/fondations/core/screens.rpy:2059
     old "Menu"
-    new ""
+    new "Menú"
 

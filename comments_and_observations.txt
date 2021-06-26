@@ -1,0 +1,1 @@
+interface.py: algunos diálogos se encontraban en inglés pero no en español
