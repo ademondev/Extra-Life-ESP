@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/scripts_custom/day_night.rpy:22
     old "Ce moment de la journée existe pas"
-    new "Este momento del día no existe"
+    new "Esta hora del día no existe"
 

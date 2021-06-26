@@ -4,103 +4,103 @@
 translate spanish home_player_corridor_f133bbfb:
 
     # noriko "Non mais ça va pas de hurler comme ça dès le matin ?!" id home_player_corridor_f133bbfb
-    noriko "" id home_player_corridor_f133bbfb
+    noriko "Hey, ¡¿Que mierda te pasa que estas gritando asi en la manaña?!" id home_player_corridor_f133bbfb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:44
 translate spanish home_player_corridor_11d3ac2a:
 
     # noriko "Y'en a marre, quand est ce que tu te comportera comme un mec ?" id home_player_corridor_11d3ac2a
-    noriko "" id home_player_corridor_11d3ac2a
+    noriko "Tan irritante... ¿Cuando te vas a volver un adulto?" id home_player_corridor_11d3ac2a
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:45
 translate spanish home_player_corridor_23584010:
 
     # noriko "T'es vraiment qu'un gamin !" id home_player_corridor_23584010
-    noriko "" id home_player_corridor_23584010
+    noriko "¡Me das verguenza!" id home_player_corridor_23584010
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:46
 translate spanish home_player_corridor_35288d53:
 
     # player upset "Oula doucement... M'agresse pas dès le matin comme ça je..." id home_player_corridor_35288d53
-    player upset "" id home_player_corridor_35288d53
+    player upset "Whoa ¡Calmate! No me grites asi en medio de la maña-" id home_player_corridor_35288d53
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:47
 translate spanish home_player_corridor_864c46c2:
 
     # noriko "Ferme ta gueule ! " id home_player_corridor_864c46c2
-    noriko "" id home_player_corridor_864c46c2
+    noriko "¡Cierra la boca!" id home_player_corridor_864c46c2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:48
 translate spanish home_player_corridor_f5d633d9:
 
     # noriko -furious "J'en peux plus de toi et de tes conneries, t'es qu'un foutu parasite, quand est ce que tu te barre d'ici ?!" id home_player_corridor_f5d633d9
-    noriko -furious "" id home_player_corridor_f5d633d9
+    noriko -furious "Eres un parasito...tendriamos que haberte mandado lejos hace mucho tiempo" id home_player_corridor_f5d633d9
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:49
 translate spanish home_player_corridor_78e798c2:
 
     # player sad "Quoi ?! Mais je..." id home_player_corridor_78e798c2
-    player sad "" id home_player_corridor_78e798c2
+    player sad "¿¡Que?! Pero yo..." id home_player_corridor_78e798c2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:50
 translate spanish home_player_corridor_71d02d97:
 
     # noriko disgusted "J'MEN FOUT CASSE TOI !" id home_player_corridor_71d02d97
-    noriko disgusted "" id home_player_corridor_71d02d97
+    noriko disgusted "¡NO ME IMPORTA LARGATE!" id home_player_corridor_71d02d97
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:53
 translate spanish home_player_corridor_03775ec8:
 
     # player "..."
-    player ""
+    player "..."
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:62
 translate spanish home_player_corridor_aa884729:
 
     # x "La vache... " id home_player_corridor_aa884729
-    x "" id home_player_corridor_aa884729
+    x "Dios..." id home_player_corridor_aa884729
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:63
 translate spanish home_player_corridor_89778dcc:
 
     # x "J'avais totalement oublié son existence." id home_player_corridor_89778dcc
-    x "" id home_player_corridor_89778dcc
+    x "Me habia olvidado completamente de ella." id home_player_corridor_89778dcc
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:64
 translate spanish home_player_corridor_3ab3c167:
 
     # x "Comment j'ai pu oublié {color=#fd79a8}{b}[noriko_name]{/b}{/color} et son aggressivitée légendaire..." id home_player_corridor_3ab3c167
-    x "" id home_player_corridor_3ab3c167
+    x "¿Como pude haberme olvidado de {color=#fd79a8}{b}[noriko_name]{/b}{/color}?" id home_player_corridor_3ab3c167
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:65
 translate spanish home_player_corridor_8ed9d900:
 
     # x "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement mais..." id home_player_corridor_8ed9d900
-    x "" id home_player_corridor_8ed9d900
+    x "Siempre fue tan violenta conmigo, intente el saber porque pero..." id home_player_corridor_8ed9d900
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:66
 translate spanish home_player_corridor_0b052899:
 
     # x "Elle m'a toujours envoyé chié." id home_player_corridor_0b052899
-    x "" id home_player_corridor_0b052899
+    x "Siempre me mando a la mierda..." id home_player_corridor_0b052899
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:67
 translate spanish home_player_corridor_e49418ab:
 
     # x "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour s'enfuir avec une bande de racailles." id home_player_corridor_e49418ab
-    x "" id home_player_corridor_e49418ab
+    x "Es verdad... Ella se ira de la casa, se llevara el poco dinero que {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dejó, para darle todo a unos inutiles." id home_player_corridor_e49418ab
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:68
 translate spanish home_player_corridor_7199d067:
 
     # x "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé." id home_player_corridor_7199d067
-    x "" id home_player_corridor_7199d067
+    x "La van a encontrar ahogada en el canal unos dias despues..." id home_player_corridor_7199d067
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:69
 translate spanish home_player_corridor_9cd593bd:
 
     # x "Ça va briser {color=#a29bfe}{b}[yasuka_name]{/b}{/color}. Elle ne pourra jamais remonter la pente après ça..." id home_player_corridor_9cd593bd
-    x "" id home_player_corridor_9cd593bd
+    x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... se rompio despues de eso. No se pudo recuperar." id home_player_corridor_9cd593bd
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:78
 translate spanish home_player_corridor_897eca85:
