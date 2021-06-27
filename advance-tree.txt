@@ -51,10 +51,10 @@ scripts/
             player's home/ (done)
             home_player_wifi (done)
         talking/
-            talk_chef
-            talk_chiaki
-            talk_macumba
-            talk_yasuka
+            talk_chef  (done)
+            talk_chiaki (done)
+            talk_macumba (done)
+            talk_yasuka (done)
         world/
             park
         intro
