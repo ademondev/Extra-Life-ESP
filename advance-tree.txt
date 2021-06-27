@@ -55,7 +55,7 @@ scripts/
             talk_chiaki (done)
             talk_macumba (done)
             talk_yasuka (done)
-        world/
-            park
-        intro
-common
+        world/ (done)
+            park (done)
+        intro (done)
+common (done)
