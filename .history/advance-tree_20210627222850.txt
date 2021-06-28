@@ -51,6 +51,7 @@ scripts/
             player's home/ (done)
             home_player_wifi (done)
         talking/
+<<<<<<< HEAD
             talk_chef
             talk_chiaki
             talk_macumba
@@ -58,4 +59,13 @@ scripts/
         world/
             park
         intro
+=======
+            talk_chef  (done)
+            talk_chiaki (done)
+            talk_macumba (done)
+            talk_yasuka (done)
+        world/ (done)
+            park (done)
+        intro (done)
+>>>>>>> 792a3dd8a5a383d1929d3699b2b9b48963107ceb
 common (done)
