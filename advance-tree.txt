@@ -2,10 +2,10 @@ Cómo usar: Lo que estás viendo es el árbol de avance. Es una representación 
 a editar para la traducción.
 
 Los nombres que terminan con una "/" al final son carpetas. Ej: scripts/
-Los nombres que no tienen nada al final representan archivos .py que son los que tenemos que editar y traducir
+Los nombres que no tienen nada al final representan archivos .rpy que son los que tenemos que editar y traducir
 nosotros. Ej: options
 
-Una vez que termines de traducir un archivo .py deberás poner "(done)" al lado de su nombre correspondiente.
+Una vez que termines de traducir un archivo .rpy deberás poner "(done)" al lado de su nombre correspondiente.
 Podés encontrar ejemplos abajo.
 
 Podés agregar un comentario sobre algo raro que viste mientras traducías indicando el nombre del .py 
@@ -19,7 +19,7 @@ scripts/
             script (done)
             cheat (done)
             disclaimer (done)
-            interface (done) algunos diálogos se encontraban en inglés pero no en español)
+            interface (done) 
             inventory (done)
             menu_backgrounds (done)
             menu_sprites (done)
@@ -58,4 +58,4 @@ scripts/
         world/
             park
         intro
-common
+common (done)
