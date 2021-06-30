@@ -50,7 +50,6 @@ scripts/
                 restaurant_exterior (done)(revisado)
         residential district/
             player's home/(revisados)
-	    home_player_corridor ( revisado)
             home_player_wifi (done)(revisado)
         talking/
             talk_chef (done)(revisado)
