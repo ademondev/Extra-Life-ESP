@@ -4,19 +4,19 @@
 translate spanish pc_noriko_e7719ae9:
 
     # player "Qu'est ce qu'elle regardait comme ça...?" id pc_noriko_e7719ae9
-    player "¿Que es lo que ella estaba mirando?" id pc_noriko_e7719ae9
+    player "¿Qué es lo que esta mirando?" id pc_noriko_e7719ae9
 
 # game/scripts/story/action/pc_noriko.rpy:26
 translate spanish pc_noriko_c4e3d3da:
 
     # x "Putain de bordel de merde..!" id pc_noriko_c4e3d3da
-    x "¡Mierda...!" id pc_noriko_c4e3d3da
+    x "¡¿Qué mierda...?!" id pc_noriko_c4e3d3da
 
 # game/scripts/story/action/pc_noriko.rpy:27
 translate spanish pc_noriko_1eb724ef:
 
     # x "C'est quoi ça ?!" id pc_noriko_1eb724ef
-    x "Esto es-" id pc_noriko_1eb724ef
+    x "¿Esto es-" id pc_noriko_1eb724ef
 
 # game/scripts/story/action/pc_noriko.rpy:29
 translate spanish pc_noriko_32cbd8c8:
@@ -28,13 +28,13 @@ translate spanish pc_noriko_32cbd8c8:
 translate spanish pc_noriko_7095c62a:
 
     # noriko "QU'EST-CE QUE TU FAIS DANS MA CHAMBRE ?!!" id pc_noriko_7095c62a
-    noriko "¡¿QUE ESTAS HACIENDO EN MI HABITACIÓN?!" id pc_noriko_7095c62a
+    noriko "¡¿QUÉ ESTAS HACIENDO EN MI HABITACIÓN?!" id pc_noriko_7095c62a
 
 # game/scripts/story/action/pc_noriko.rpy:41
 translate spanish pc_noriko_e4920734:
 
     # noriko "ENFOIRE T'AVAIS PAS LE DROIT DE REGARDER ÇA !!" id pc_noriko_e4920734
-    noriko "¡NO TENIAS DERECHO PARA VER ESO!" id pc_noriko_e4920734
+    noriko "¡NO TIENES DERECHO DE VER ESO!" id pc_noriko_e4920734
 
 # game/scripts/story/action/pc_noriko.rpy:42
 translate spanish pc_noriko_cdac2962:
@@ -46,13 +46,13 @@ translate spanish pc_noriko_cdac2962:
 translate spanish pc_noriko_17e596ff:
 
     # player upset "FERME-LÀ !" id pc_noriko_17e596ff
-    player upset "Oh cállate" id pc_noriko_17e596ff
+    player upset "OH CÁLLATE" id pc_noriko_17e596ff
 
 # game/scripts/story/action/pc_noriko.rpy:48
 translate spanish pc_noriko_27fe91d9:
 
     # player "Si tu t'étais contentée de me répondre dès le départ on en serait pas arrivé là !" id pc_noriko_27fe91d9
-    player "Si me hubieras respondido cuando golpeé la puerta, no estaríamos aqui ahora mismo" id pc_noriko_27fe91d9
+    player "¡Si me hubieras respondido cuando golpeé la puerta, no estaríamos aqui ahora mismo!" id pc_noriko_27fe91d9
 
 # game/scripts/story/action/pc_noriko.rpy:49
 translate spanish pc_noriko_2b82e184:
@@ -64,31 +64,31 @@ translate spanish pc_noriko_2b82e184:
 translate spanish pc_noriko_093f4a70:
 
     # x "Il me faut une idée et vite..." id pc_noriko_093f4a70
-    x "Necesito un plan, rapido..." id pc_noriko_093f4a70
+    x "Necesito un plan y rapido..." id pc_noriko_093f4a70
 
 # game/scripts/story/action/pc_noriko.rpy:51
 translate spanish pc_noriko_4b35a18b:
 
     # x "Je vais tenter quelque chose..." id pc_noriko_4b35a18b
-    x "Intentemoslo..." id pc_noriko_4b35a18b
+    x "Intentémoslo..." id pc_noriko_4b35a18b
 
 # game/scripts/story/action/pc_noriko.rpy:56
 translate spanish pc_noriko_e0cc54b7:
 
     # playerc "Je ne sais plus quoi faire avec toi {color=#fd79a8}{b}[noriko_name]{/b}{/color}!" id pc_noriko_e0cc54b7
-    playerc "No se que mas hacer contigo, {color=#fd79a8}{b}[noriko_name]{/b}{/color}!" id pc_noriko_e0cc54b7
+    playerc "Ya no sé que más hacer contigo, {color=#fd79a8}{b}[noriko_name]{/b}{/color}!" id pc_noriko_e0cc54b7
 
 # game/scripts/story/action/pc_noriko.rpy:57
 translate spanish pc_noriko_52971ce2:
 
     # playerc "Tu abuse de ma patience depuis bien trop longtemps." id pc_noriko_52971ce2
-    playerc "Has estado probando mi paciencia." id pc_noriko_52971ce2
+    playerc "Has estado colmando mi paciencia." id pc_noriko_52971ce2
 
 # game/scripts/story/action/pc_noriko.rpy:58
 translate spanish pc_noriko_6150a6d5:
 
     # playerc "Je ne sais pas pourquoi tu ne me prend pas au serieux mais ça va changer..." id pc_noriko_6150a6d5
-    playerc "No se porque no puedes entender lo que te digo... pero creo que podemos arreglar eso..." id pc_noriko_6150a6d5
+    playerc "No se porque no puedes entender lo que te digo... pero eso está a punto de cambiar..." id pc_noriko_6150a6d5
 
 # game/scripts/story/action/pc_noriko.rpy:59
 translate spanish pc_noriko_102ef7ee:
@@ -100,31 +100,31 @@ translate spanish pc_noriko_102ef7ee:
 translate spanish pc_noriko_dae531e8:
 
     # playerc "...Tu as peut etre besoins que je joigne les actes a la parole?" id pc_noriko_dae531e8
-    playerc "...{w}Quizas las palabras no sean lo suficiente para ti" id pc_noriko_dae531e8
+    playerc "...{w}Quizás las palabras no funcionan contigo" id pc_noriko_dae531e8
 
 # game/scripts/story/action/pc_noriko.rpy:61
 translate spanish pc_noriko_666b9ce6:
 
     # playerc "Si tu aime ce genre de chose, peut etre qu'on peut trouver une sorte d'arrangement ?" id pc_noriko_666b9ce6
-    playerc "Si te gustan ese tipo de cosas, quizas podamos llegar a algun arreglo." id pc_noriko_666b9ce6
+    playerc "Si te gustan ese tipo de cosas, quizas podamos llegar a un acuerdo" id pc_noriko_666b9ce6
 
 # game/scripts/story/action/pc_noriko.rpy:62
 translate spanish pc_noriko_f2e8ce36:
 
     # playerc "J'aurais peut etre du t'accorder plus d'attention..." id pc_noriko_f2e8ce36
-    playerc "Puedo darte mas...atención" id pc_noriko_f2e8ce36
+    playerc "Debí haberte puesto más...atención" id pc_noriko_f2e8ce36
 
 # game/scripts/story/action/pc_noriko.rpy:63
 translate spanish pc_noriko_850db9ee:
 
     # norikoc "Arrete... Je..." id pc_noriko_850db9ee
-    norikoc "Para...yo soy..." id pc_noriko_850db9ee
+    norikoc "Para...yo..." id pc_noriko_850db9ee
 
 # game/scripts/story/action/pc_noriko.rpy:68
 translate spanish pc_noriko_df83df6a:
 
     # playerc "Je ne te savais pas aussi vicieuse !" id pc_noriko_df83df6a
-    playerc "Nunca supe que eras tan sucia" id pc_noriko_df83df6a
+    playerc "Nunca pensé que fueras tan sucia" id pc_noriko_df83df6a
 
 # game/scripts/story/action/pc_noriko.rpy:69
 translate spanish pc_noriko_a4f00544:
@@ -172,7 +172,7 @@ translate spanish pc_noriko_3fbad6b5:
 translate spanish pc_noriko_e2cb7a2e:
 
     # playerc "Finalement... Je vais finir par croire que c'était ce que tu voulais depuis le debut..." id pc_noriko_e2cb7a2e
-    playerc "Buena chica" id pc_noriko_e2cb7a2e
+    playerc "Buena chica.... quien pensaria que esto es lo que querias desde el principio." id pc_noriko_e2cb7a2e
 
 # game/scripts/story/action/pc_noriko.rpy:77
 translate spanish pc_noriko_9fc616da_1:
@@ -184,19 +184,19 @@ translate spanish pc_noriko_9fc616da_1:
 translate spanish pc_noriko_03f06f03:
 
     # player neutral "Ou est le baladeur {color=#fd79a8}{b}[noriko_name]{/b}{/color}!?" id pc_noriko_03f06f03
-    player neutral "¿Donde esta mi mp3, {color=#fd79a8}{b}[noriko_name]{/b}{/color}?" id pc_noriko_03f06f03
+    player neutral "¿Dónde está mi mp3, {color=#fd79a8}{b}[noriko_name]{/b}{/color}?" id pc_noriko_03f06f03
 
 # game/scripts/story/action/pc_noriko.rpy:90
 translate spanish pc_noriko_cefb0a59:
 
     # noriko "C'est maman qui t'avais emprunté le baladeur, pas moi..." id pc_noriko_cefb0a59
-    noriko "Fue mamá la que agarro el mp3, no fui yo..." id pc_noriko_cefb0a59
+    noriko "Fue mamá la que agarró  el mp3, no yo..." id pc_noriko_cefb0a59
 
 # game/scripts/story/action/pc_noriko.rpy:91
 translate spanish pc_noriko_d19ce8a2:
 
     # player happy "Tu vois? Tu aurais du commener par ça dès le début?" id pc_noriko_d19ce8a2
-    player happy "¿Ves? Podrias haber empezado por eso desde el inicio" id pc_noriko_d19ce8a2
+    player happy "¿Ves? Podrías haber empezado por eso desde el inicio" id pc_noriko_d19ce8a2
 
 # game/scripts/story/action/pc_noriko.rpy:104
 translate spanish pc_noriko_3b23c22d:
@@ -208,37 +208,37 @@ translate spanish pc_noriko_3b23c22d:
 translate spanish pc_noriko_901d3cde:
 
     # x "Je ne sais pas ce qui m'a pris mais visiblement je m'en suis sorti vivant..." id pc_noriko_901d3cde
-    x "No se que me sucedio, pero funciono..." id pc_noriko_901d3cde
+    x "No sé qué me paso, pero funciono..." id pc_noriko_901d3cde
 
 # game/scripts/story/action/pc_noriko.rpy:106
 translate spanish pc_noriko_0a80aabf:
 
     # x "Ma relation avec ma chère {color=#fd79a8}{b}[noriko_name]{/b}{/color} devrait évoluer d'une bien étrange façon... " id pc_noriko_0a80aabf
-    x "Esto definitivamente va a cambiar nuestra relación..." id pc_noriko_0a80aabf
+    x "Esto definitivamente cambiará nuestra relación" id pc_noriko_0a80aabf
 
 # game/scripts/story/action/pc_noriko.rpy:107
 translate spanish pc_noriko_a4dc08cc:
 
     # x "J'espere que tout ça aura suffit... J'ai vraiment pris de trop gros risques cette fois ci!" id pc_noriko_a4dc08cc
-    x "Espero haber hecho lo correcto... Esto fue realmente riesgoso." id pc_noriko_a4dc08cc
+    x "Espero haber hecho lo correcto... Aunque eso fue muy arriesgado." id pc_noriko_a4dc08cc
 
 # game/scripts/story/action/pc_noriko.rpy:113
 translate spanish pc_noriko_7c415df9:
 
     # x "Et merde ! Pris en flag, ça pouvait pas tomber plus mal..." id pc_noriko_7c415df9
-    x "¡Maldicion! De todos los momentos para que me atrapen..." id pc_noriko_7c415df9
+    x "¡Maldición! De todos los momentos para que me atraparán..." id pc_noriko_7c415df9
 
 # game/scripts/story/action/pc_noriko.rpy:114
 translate spanish pc_noriko_b355c7c6:
 
     # player sad "Désolé... vraiment !" id pc_noriko_b355c7c6
-    player sad "Realmente lo siento..." id pc_noriko_b355c7c6
+    player sad "Enserio lo siento..." id pc_noriko_b355c7c6
 
 # game/scripts/story/action/pc_noriko.rpy:115
 translate spanish pc_noriko_95378fb1:
 
     # noriko "T'ES DESOLE ? TU CROIS QUE CA VA SUFFIRE ?" id pc_noriko_95378fb1
-    noriko "¿Lo sientes? ¿Realmente piensas que eso sera suficiente?" id pc_noriko_95378fb1
+    noriko "¿Lo sientes? ¿Realmente piensas que eso será suficiente?" id pc_noriko_95378fb1
 
 # game/scripts/story/action/pc_noriko.rpy:116
 translate spanish pc_noriko_8cb036f5:
@@ -250,7 +250,7 @@ translate spanish pc_noriko_8cb036f5:
 translate spanish pc_noriko_2189f730:
 
     # player "Comment je peux me faire pardonner ?" id pc_noriko_2189f730
-    player "¿Como puedo compensarlo?" id pc_noriko_2189f730
+    player "¿Cómo puedo compensarlo?" id pc_noriko_2189f730
 
 # game/scripts/story/action/pc_noriko.rpy:118
 translate spanish pc_noriko_29cd7803:
@@ -268,7 +268,7 @@ translate spanish pc_noriko_bdd910de:
 translate spanish pc_noriko_9302ef11:
 
     # player surprised "Quoi ? Mais..." id pc_noriko_9302ef11
-    player surprised "¿Que?" id pc_noriko_9302ef11
+    player surprised "¿Qué?" id pc_noriko_9302ef11
 
 # game/scripts/story/action/pc_noriko.rpy:121
 translate spanish pc_noriko_cd1ef043:
@@ -310,13 +310,13 @@ translate spanish pc_noriko_25d2851c:
 translate spanish pc_noriko_7ab81800:
 
     # norikoc "...misérable." id pc_noriko_7ab81800
-    norikoc "...un miserable." id pc_noriko_7ab81800
+    norikoc "...un miserable " id pc_noriko_7ab81800
 
 # game/scripts/story/action/pc_noriko.rpy:141
 translate spanish pc_noriko_657a7a37:
 
     # norikoc "putain de..." id pc_noriko_657a7a37
-    norikoc "estupido" id pc_noriko_657a7a37
+    norikoc "y estúpido" id pc_noriko_657a7a37
 
 # game/scripts/story/action/pc_noriko.rpy:143
 translate spanish pc_noriko_569d390a:
@@ -334,37 +334,37 @@ translate spanish pc_noriko_3e20ec33:
 translate spanish pc_noriko_78450098:
 
     # norikoc "Chuuut, pas un mot, ni maintenant ni jamais." id pc_noriko_78450098
-    norikoc "No te di permiso para ladrar, pequeño perrito." id pc_noriko_78450098
+    norikoc "No te di permiso para ladrar, perrito." id pc_noriko_78450098
 
 # game/scripts/story/action/pc_noriko.rpy:155
 translate spanish pc_noriko_bebcd775:
 
     # norikoc "Dorénavant tu m'obeiras au doigt et à l'oeil..." id pc_noriko_bebcd775
-    norikoc "De ahora en adelante me vas a obedecer ¿Entendido?, cualquier demanda, cualquier palabra. Si hablo, me escuchas." id pc_noriko_bebcd775
+    norikoc "De ahora en adelante me vas a obedecer. Es por eso por lo tanto que cualquier palabra, demanda u orden la escucharas. ¿Entendido?" id pc_noriko_bebcd775
 
 # game/scripts/story/action/pc_noriko.rpy:156
 translate spanish pc_noriko_ce8f4e97:
 
     # playerc "Et si je refuse ?" id pc_noriko_ce8f4e97
-    playerc "¿Que pasa si me rehuso?" id pc_noriko_ce8f4e97
+    playerc "¿Qué pasa si me rehusó?" id pc_noriko_ce8f4e97
 
 # game/scripts/story/action/pc_noriko.rpy:157
 translate spanish pc_noriko_b2f72d90:
 
     # norikoc "j'irais voir maman et lui dirais que tu m'as violé plusieurs fois dans mon enfance." id pc_noriko_b2f72d90
-    norikoc "Le dire a mamá que me violaste repetidas veces durante todos estos años" id pc_noriko_b2f72d90
+    norikoc "Le diré a mamá que me violaste repetidas veces durante todos estos años" id pc_noriko_b2f72d90
 
 # game/scripts/story/action/pc_noriko.rpy:158
 translate spanish pc_noriko_4ef9bc25:
 
     # playerc "Quoi ?! Mais j'ai jam...!" id pc_noriko_4ef9bc25
-    playerc "¡¿Que?!, ¡pero yo nunca...!" id pc_noriko_4ef9bc25
+    playerc "¡¿Qué?!¡Pero yo... nunca!" id pc_noriko_4ef9bc25
 
 # game/scripts/story/action/pc_noriko.rpy:159
 translate spanish pc_noriko_e17c6ce8:
 
     # norikoc "TU OBEIRAS !" id pc_noriko_e17c6ce8
-    norikoc "{i}Al menos{/i} que obedezcas." id pc_noriko_e17c6ce8
+    norikoc "{i}A menos{/i} que obedezcas." id pc_noriko_e17c6ce8
 
 # game/scripts/story/action/pc_noriko.rpy:160
 translate spanish pc_noriko_b14bf260:
@@ -376,13 +376,13 @@ translate spanish pc_noriko_b14bf260:
 translate spanish pc_noriko_b3183e43:
 
     # noriko furious "Parfait! Maintenant degage de ma chambre !" id pc_noriko_b3183e43
-    noriko furious "¡Excelente! ¡ahora sal de mi habitación perrito!, estoy ocupada" id pc_noriko_b3183e43
+    noriko furious "¡Excelente! ¡Ahora sal de mi habitación perrito!, estoy ocupada" id pc_noriko_b3183e43
 
 # game/scripts/story/action/pc_noriko.rpy:174
 translate spanish pc_noriko_e100ab91:
 
     # noriko "Maman te l'a emprunté, je ne touche pas à tes affaires, j'ai pas envie de chopper le cancer!" id pc_noriko_e100ab91
-    noriko "Mamá lo tomo prestado, jamas tocaria tus cosas, ¡no quiero tener cancer!" id pc_noriko_e100ab91
+    noriko "Mamá lo tomo prestado, jamás tocaría tus cosas, ¡No quisiera tener cáncer!" id pc_noriko_e100ab91
 
 # game/scripts/story/action/pc_noriko.rpy:187
 translate spanish pc_noriko_a21e86ee:
@@ -400,13 +400,13 @@ translate spanish pc_noriko_f5f4e555:
 translate spanish pc_noriko_29621d39:
 
     # x "Merde... Mais qu'est ce qui vient de se passer ?!" id pc_noriko_29621d39
-    x "¿Que demonios acaba de pasar?" id pc_noriko_29621d39
+    x "¿Qué demonios acaba de pasar?" id pc_noriko_29621d39
 
 # game/scripts/story/action/pc_noriko.rpy:190
 translate spanish pc_noriko_acd28135:
 
     # x "Je savais qu'elle était odieuse mais pas qu'elle avait un coté sadique." id pc_noriko_acd28135
-    x "Sabia que ella era una completa perra pero, ¿una sadica tambien?" id pc_noriko_acd28135
+    x "Sabía que ella era una completa perra, pero ¿Una sádica también?" id pc_noriko_acd28135
 
 # game/scripts/story/action/pc_noriko.rpy:191
 translate spanish pc_noriko_025cac24:
@@ -418,7 +418,7 @@ translate spanish pc_noriko_025cac24:
 translate spanish pc_noriko_2b81833a:
 
     # x "Je suis coincé à obéir à tous ces caprices !" id pc_noriko_2b81833a
-    x "estoy atrapado teniendo que obeceder cada uno de sus caprichos." id pc_noriko_2b81833a
+    x "Tengo que obedecer todos sus caprichos" id pc_noriko_2b81833a
 
 # game/scripts/story/action/pc_noriko.rpy:193
 translate spanish pc_noriko_a21e86ee_1:
@@ -430,7 +430,7 @@ translate spanish pc_noriko_a21e86ee_1:
 translate spanish pc_noriko_1b354464:
 
     # x "Toutes ces conneries ont fini par m'exciter..." id pc_noriko_1b354464
-    x "Y ahora estoy caliente..." id pc_noriko_1b354464
+    x "Después de toda esa mierda… termine caliente" id pc_noriko_1b354464
 
 # game/scripts/story/action/pc_noriko.rpy:201
 translate spanish pc_noriko_8a9a83e4:
@@ -442,7 +442,7 @@ translate spanish pc_noriko_8a9a83e4:
 translate spanish pc_noriko_3bf75143:
 
     # player "Allons voir {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour ce foutu baladeur CD!" id pc_noriko_3bf75143
-    player "Vamos a ver a {color=#a29bfe}{b}[yasuka_name]{/b}{/color} por ese maldito mp3!" id pc_noriko_3bf75143
+    player "Vamos a ver a con {color=#a29bfe}{b}[yasuka_name]{/b}{/color} por ese maldito mp3!" id pc_noriko_3bf75143
 
 translate spanish strings:
 
@@ -452,9 +452,9 @@ translate spanish strings:
 
     # game/scripts/story/action/pc_noriko.rpy:46
     old "Je suis peut etre allez trop loin cette\nfois ci. Si {color=#fd79a8}{b}%s{/b}{/color} cafte, je suis mort."
-    new "¿Abre ido demasiado lejos\nesta vez?. Si {color=#fd79a8}{b}%s{/b}{/color} me lo arrebata, voy a estar muerto."
+    new "¿Quizá fui demasiado lejos\nesta vez?. Si {color=#fd79a8}{b}%s{/b}{/color} me lo arrebata, voy a estar muerto."
 
     # game/scripts/story/action/pc_noriko.rpy:112
     old "Elle est encore plus folle qu'avant\nje suis dans la merde !"
-    new "Ella esta mas loca que antes\nestoy en la mierda!"
+    new "!Ella esta mas loca que antes y\nenserio estoy perdido!"
 
