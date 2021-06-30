@@ -2,10 +2,10 @@ Cómo usar: Lo que estás viendo es el árbol de avance. Es una representación 
 a editar para la traducción.
 
 Los nombres que terminan con una "/" al final son carpetas. Ej: scripts/
-Los nombres que no tienen nada al final representan archivos .rpy que son los que tenemos que editar y traducir
+Los nombres que no tienen nada al final representan archivos .py que son los que tenemos que editar y traducir
 nosotros. Ej: options
 
-Una vez que termines de traducir un archivo .rpy deberás poner "(done)" al lado de su nombre correspondiente.
+Una vez que termines de traducir un archivo .py deberás poner "(done)" al lado de su nombre correspondiente.
 Podés encontrar ejemplos abajo.
 
 Podés agregar un comentario sobre algo raro que viste mientras traducías indicando el nombre del .py 
@@ -14,48 +14,50 @@ en el archivo "comments_and_observations.txt"
 scripts/
     fondations/
         core/
-            options (done)
-            screens (done)
-            script (done)
-            cheat (done)
-            disclaimer (done)
-            interface (done) 
-            inventory (done)
-            menu_backgrounds (done)
-            menu_sprites (done)
-            objective (done)
-            rename (done)
+            options (done)(revisado)
+            screens (done)(revisado)
+            script (done)(revisado)
+            cheat (done)(revisado)
+            disclaimer (donde)(revisado)
+	    Gallery (done)(revisado)
+            interface (donde)(revisado)(Algunos diálogos se encontraban en el formato inglés pero no el español)
+            inventory (done)(revisado)
+            menu_backgrounds (done)(revisado)
+            menu_sprites (done)(revisado)
+            objective (done)(revisado)
+            rename (done)(revisado)
     screens/
-        residential district/
-            player's home/
-                s_home_player_room(done)
+        residential district/ 
+            player's home/(done)(revisado)
+                s_home_player_room (done)(revisado)
         world/
-            s_city(done)
+            s_city(done)(revisado)
     scripts_custom/
-        credit (done)
-        day_night (done)
-        quit (done)
-        s_choice_rename (done)
-        skip (done)
+        credit (done)(revisado)
+        day_night (done)(revisado)
+        quit (done)(revisado)
+        s_choice_rename (done)(revisado)
+        skip (done)(revisado)
     story/
         action/ (done)
-            pc_noriko (done)
-            sleep (done)
+            pc_noriko (done)(revisado)
+            sleep (done)(revisado)
         ancient district/ (done)
-            dojo/ (done)
-                dojo_exterior (done)
+            dojo/ (done)(revisado)
+                dojo_exterior (done)(revisado)
         business district/
-            restaurant/ (done)
-                restaurant_exterior (done)
-        residential district/ 
-            player's home/ (done)
-            home_player_wifi (done)
+            restaurant/ (done)(revisado)
+                restaurant_exterior (done)(revisado)
+        residential district/
+            player's home/(revisados)
+	    home_player_corridor ( revisado)
+            home_player_wifi (done)(Revisado)
         talking/
-            talk_chef
-            talk_chiaki
-            talk_macumba
-            talk_yasuka
+            talk_chef (done)(Revisado)
+            talk_chiaki (done)(Revisado)
+            talk_macumba (done)(Revisado
+            talk_yasuka( Traducido, revisar posibles errores en el codigo de algunos dialogos)
         world/
-            park
-        intro
-common (done)
+            park (done)(Revisado)
+        intro(done)(Revisado)
+common (done)(Revisado)
