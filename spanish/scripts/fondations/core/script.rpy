@@ -22,7 +22,7 @@ translate spanish start_83b57738:
 translate spanish start_85f88ff6:
 
     # centered "Votre argent" id start_85f88ff6
-    centered "Tu dinero" id start_85f88ff6
+    centered "Tú dinero" id start_85f88ff6
 
 # game/scripts/fondations/core/script.rpy:74
 translate spanish start_e87d44c6:
@@ -46,13 +46,13 @@ translate spanish start_0b7761e7:
 translate spanish start_6e1b8876:
 
     # centered "Vos statistiques\nForce, intelligence, agilité, endurance et charisme.\nElles vous aideront à progresser dans votre aventure." id start_6e1b8876
-    centered "Las estadísticas de tu personaje\nFuerza, inteligencia, agilidad, resitencia y carisma." id start_6e1b8876
+    centered "Las estadísticas de tu personaje\nFuerza, inteligencia, agilidad, resistencia y carisma." id start_6e1b8876
 
 # game/scripts/fondations/core/script.rpy:90
 translate spanish start_853eb1f2:
 
     # centered "et enfin, votre inventaire." id start_853eb1f2
-    centered "Y finalmente, tu inventario." id start_853eb1f2
+    centered "Y finalmente, tú inventario." id start_853eb1f2
 
 # game/scripts/fondations/core/script.rpy:94
 translate spanish start_6dbb4b47:
@@ -70,7 +70,7 @@ translate spanish start_bca710c8:
 translate spanish start_fa4b6f58:
 
     # centered "La notification en rouge vous indique quand votre objectif a été mis à jour." id start_fa4b6f58
-    centered "La notificación roja te indica cuando tu objetivo haya sido actualizado." id start_fa4b6f58
+    centered "La notificación roja te indicará cuando tu objetivo haya sido actualizado." id start_fa4b6f58
 
 # game/scripts/fondations/core/script.rpy:106
 translate spanish start_19809441:
@@ -100,7 +100,7 @@ translate spanish start_ee444d93:
 translate spanish start_72038afb:
 
     # centered "Le montant d'argent trouvé est aléatoire,\nespérons que vous serez assez chanceux." id start_72038afb
-    centered "La cantidad de dinero que encuentres es totalmente aleatoria,\n¡esperemos que tengas mucha suerte!" id start_72038afb
+    centered "La cantidad de dinero que encuentres es totalmente aleatoria,\n¡esperemos que tengas buena suerte!" id start_72038afb
 
 # game/scripts/fondations/core/script.rpy:123
 translate spanish start_ad1a98c7:
