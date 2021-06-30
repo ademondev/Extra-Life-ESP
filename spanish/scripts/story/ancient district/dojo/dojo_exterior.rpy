@@ -16,7 +16,7 @@ translate spanish dojo_exterior_dd982f53:
 translate spanish dojo_exterior_e31bf590:
 
     # player "Autant aller jeter un coup d'œil à l'intérieur." id dojo_exterior_e31bf590
-    player "Podria tambien ir entrando..." id dojo_exterior_e31bf590
+    player "Quizá podría ir entrando..." id dojo_exterior_e31bf590
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:61
 translate spanish dojo_exterior_e8e15207:
@@ -40,13 +40,13 @@ translate spanish dojo_exterior_8214f5e8:
 translate spanish dojo_exterior_b10797b8:
 
     # player upset "Quoi?!" id dojo_exterior_b10797b8
-    player upset "¿What?" id dojo_exterior_b10797b8
+    player upset "¿Qué?" id dojo_exterior_b10797b8
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:69
 translate spanish dojo_exterior_a61d087c:
 
     # akira -upset "Oui couille molle ! En plus de ça, t'es sourd ?" id dojo_exterior_a61d087c
-    akira -upset "¡Estoy hablandote debilucho! ¿Estas sordo tambien?" id dojo_exterior_a61d087c
+    akira -upset "¡Estoy hablando debilucho! ¿Qué también estas sordo?" id dojo_exterior_a61d087c
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:70
 translate spanish dojo_exterior_c9b0020c:
@@ -64,7 +64,7 @@ translate spanish dojo_exterior_113a5263:
 translate spanish dojo_exterior_f74cdb95:
 
     # x "C'était et c'est toujours la pire ordure de toute mon adolescence..." id dojo_exterior_f74cdb95
-    x "Él es y sigue siendo la peor escoria que jamas conoci..." id dojo_exterior_f74cdb95
+    x "Es y sigue siendo la peor escoria que jamás conoci..." id dojo_exterior_f74cdb95
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:85
 translate spanish dojo_exterior_b3e9ba34:
@@ -76,13 +76,13 @@ translate spanish dojo_exterior_b3e9ba34:
 translate spanish dojo_exterior_a9552264:
 
     # x "Finalement c'est un peu une version masculine de {color=#fd79a8}{b}[noriko_name]{/b}{/color}" id dojo_exterior_a9552264
-    x "Es como una version masculina de {color=#fd79a8}{b}[noriko_name]{/b}{/color}." id dojo_exterior_a9552264
+    x "Es como una versión masculina de {color=#fd79a8}{b}[noriko_name]{/b}{/color}." id dojo_exterior_a9552264
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:87
 translate spanish dojo_exterior_dfdeb035:
 
     # x "Je n'avais aucune idée qu'il pratiquait un sport de combat lui aussi..." id dojo_exterior_dfdeb035
-    x "No sabia que él entrenaba aqui" id dojo_exterior_dfdeb035
+    x "No sabía que él entrenaba aquí" id dojo_exterior_dfdeb035
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:88
 translate spanish dojo_exterior_3dca99e9:
@@ -94,25 +94,25 @@ translate spanish dojo_exterior_3dca99e9:
 translate spanish dojo_exterior_d75febc6:
 
     # akira "Oh la vache, il répond...!" id dojo_exterior_d75febc6
-    akira "¡Oh mira, el pene flacido puede hablar!" id dojo_exterior_d75febc6
+    akira "¡Oh miren, el penecito flácido puede hablar!" id dojo_exterior_d75febc6
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:103
 translate spanish dojo_exterior_1ddd0f53:
 
     # akira "Et bien alors, on s'est acheté des couilles ?" id dojo_exterior_1ddd0f53
-    akira "¿Acaso tu madre te compro unas bolas?" id dojo_exterior_1ddd0f53
+    akira "¿Acaso tu mami te compro tus bolas?" id dojo_exterior_1ddd0f53
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:104
 translate spanish dojo_exterior_cc68c0ea:
 
     # akira "Visiblement c'était le plus petit modèle..." id dojo_exterior_cc68c0ea
-    akira "¿De que tamaño te los compro? ¿Pequeños o extra pequeños?" id dojo_exterior_cc68c0ea
+    akira "¿De qué tamaño te los compro? ¿Pequeños o extrapequeños?" id dojo_exterior_cc68c0ea
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:108
 translate spanish dojo_exterior_92cfab26:
 
     # akira "Va te suicider et tu n'entendras plus parler de moi !" id dojo_exterior_92cfab26
-    akira "¡Suicidate y no vas a volver a saber de mi!" id dojo_exterior_92cfab26
+    akira "¡Suicídate y nunca vas a volver a saber de mí!." id dojo_exterior_92cfab26
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:109
 translate spanish dojo_exterior_03775ec8:
@@ -124,13 +124,13 @@ translate spanish dojo_exterior_03775ec8:
 translate spanish dojo_exterior_f28cd992:
 
     # player neutral "Je veux seulement m'inscrire..." id dojo_exterior_f28cd992
-    player neutral "Solo queria registrarme..." id dojo_exterior_f28cd992
+    player neutral "Solo quería registrarme..." id dojo_exterior_f28cd992
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:112
 translate spanish dojo_exterior_96f5c8aa:
 
     # akira neutral "J'espere que tu t'imagines pas venir ici et apprendre à te battre pour essayer de te venger?" id dojo_exterior_96f5c8aa
-    akira neutral "Awww, ¿La pequeña basura quiere vengarse y piensa aprender artes marciales?" id dojo_exterior_96f5c8aa
+    akira neutral "Awww, ¿La pequeña nena quiere vengarse aprendiendo artes marciales?" id dojo_exterior_96f5c8aa
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:113
 translate spanish dojo_exterior_03775ec8_1:
@@ -142,37 +142,37 @@ translate spanish dojo_exterior_03775ec8_1:
 translate spanish dojo_exterior_6aec3ddd:
 
     # akira arrogant "Mon pauvre mais tu fais tellement peine... Tu aurais dû t'y mettre y'a des années pour pouvoir faire quelque chose aujourd'hui." id dojo_exterior_6aec3ddd
-    akira arrogant "Pobre niño, te tomara decadas para ser un verdadero luchador." id dojo_exterior_6aec3ddd
+    akira arrogant "Pobrecito pequeñín, te tomara décadas ser un verdadero luchador." id dojo_exterior_6aec3ddd
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:115
 translate spanish dojo_exterior_53f8c629:
 
     # akira "C'est trop tard pour toi." id dojo_exterior_53f8c629
-    akira "Estas cien años tarde para vengarte" id dojo_exterior_53f8c629
+    akira "Estos cien años tarde de vengarte" id dojo_exterior_53f8c629
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:116
 translate spanish dojo_exterior_d35c3e62:
 
     # akira "T'es juste un putain de cas désespéré !" id dojo_exterior_d35c3e62
-    akira "Completamente perdido" id dojo_exterior_d35c3e62
+    akira "¡Eres un caso perdido!" id dojo_exterior_d35c3e62
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:117
 translate spanish dojo_exterior_b073c95d:
 
     # akira angry "Maintenant casse-toi ou je te jure que je te démonte !" id dojo_exterior_b073c95d
-    akira angry "¡Ahora largate mientras aun me siento misericordioso!" id dojo_exterior_b073c95d
+    akira angry "¡Ahora lárgate mientras me siento misericordioso!" id dojo_exterior_b073c95d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:125
 translate spanish dojo_exterior_45b08d41:
 
     # player upset "Quel espèce de gros batard..." id dojo_exterior_45b08d41
-    player upset "Imbecil..." id dojo_exterior_45b08d41
+    player upset "imbécil..." id dojo_exterior_45b08d41
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:128
 translate spanish dojo_exterior_f5ef3a00:
 
     # akira "Je crois que j'ai mal entendu mais tu viendrais pas de m'insulter là ?" id dojo_exterior_f5ef3a00
-    akira "Oh lo siento, creo que escuche mal. Porque se que una pequeña perra como tú jamas me insultaria." id dojo_exterior_f5ef3a00
+    akira "Lo siento, creo que escuche mal. Porque pensé que las perras como tú no insultaban." id dojo_exterior_f5ef3a00
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:129
 translate spanish dojo_exterior_c2cffe85:
@@ -184,19 +184,19 @@ translate spanish dojo_exterior_c2cffe85:
 translate spanish dojo_exterior_99ab2e0d:
 
     # akira "Non parce que si tu cherches a mourir dis le tout de suite !" id dojo_exterior_99ab2e0d
-    akira "Pero si me equivoco y deseas morir, ¡Dimelo!." id dojo_exterior_99ab2e0d
+    akira "Pero si me equivoco y quieres morir… ¡Dímelo!" id dojo_exterior_99ab2e0d
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:131
 translate spanish dojo_exterior_3b492d5b:
 
     # akira "Je vais te faire gagner du temps." id dojo_exterior_3b492d5b
-    akira "¡Cuando termine hare incluso la autopsia! Causa de muerte: {color=#fdcb6e}{b}Akira{/b}{/color}." id dojo_exterior_3b492d5b
+    akira "¡Cuando termine voy a hacer tu autopsia! Y dirá, Causa de muerte: {color=#fdcb6e}{b}Akira{/b}{/color}." id dojo_exterior_3b492d5b
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:132
 translate spanish dojo_exterior_43cb2245:
 
     # akira "Barre toi jte dis !" id dojo_exterior_43cb2245
-    akira "No en serio, vete de aqui." id dojo_exterior_43cb2245
+    akira "No, en serio vete de aquí." id dojo_exterior_43cb2245
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:134
 translate spanish dojo_exterior_c8532248:
@@ -208,13 +208,13 @@ translate spanish dojo_exterior_c8532248:
 translate spanish dojo_exterior_dd842e49:
 
     # player "Putain !" id dojo_exterior_dd842e49
-    player "¡Maldicion!" id dojo_exterior_dd842e49
+    player "¡Maldición!" id dojo_exterior_dd842e49
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:147
 translate spanish dojo_exterior_3f45257a:
 
     # x "Bon... Si je résume..." id dojo_exterior_3f45257a
-    x "Bueno resumamos..." id dojo_exterior_3f45257a
+    x "Bueno, resumamos..." id dojo_exterior_3f45257a
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:148
 translate spanish dojo_exterior_873b55fb:
@@ -244,25 +244,25 @@ translate spanish dojo_exterior_a21e86ee:
 translate spanish dojo_exterior_da661e84:
 
     # x "Une belle grosse journée de merde!" id dojo_exterior_da661e84
-    x "Que dia de mierda." id dojo_exterior_da661e84
+    x "Que día de mierda." id dojo_exterior_da661e84
 
 # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:153
 translate spanish dojo_exterior_a4c6dea4:
 
     # x "Tant pis pour aujourd'hui, je réfléchirai à tout ça demain..." id dojo_exterior_a4c6dea4
-    x "Pero siempre hay un mañana" id dojo_exterior_a4c6dea4
+    x "Pero no me desanimare, siempre hay un mañana." id dojo_exterior_a4c6dea4
 
 translate spanish strings:
 
     # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:50
     old "Autant rentrer à la {color=ffff00}{b}maison{/b}{/color}..."
-    new "Deberia de ir a {color=ffff00}{b}casa{/b}{/color}..."
+    new "Debería de ir a {color=ffff00}{b}casa{/b}{/color}..."
 
     # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:98
     old "Qu'est-ce-que tu me veux ?"
-    new "¿Que es lo que quieres de mi?"
+    new "¿Qué es lo que quieres de mí?"
 
     # game/scripts/story/ancient district/dojo/dojo_exterior.rpy:98
     old "Laisse-moi tranquille..."
-    new "Dejame solo..."
+    new "Déjame solo..."
 
