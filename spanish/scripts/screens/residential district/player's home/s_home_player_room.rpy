@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/scripts/screens/residential district/player's home/s_home_player_room.rpy:79
     old "Vous recupérer le balladeur mp3"
-    new "Vuelves a obtener el mp3"
+    new "Vuelves a tener el mp3"
