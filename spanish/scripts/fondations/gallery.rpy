@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/scripts/fondations/gallery.rpy:28
     old "> GALERIE"
-    new "> GALERIA"
+    new "> GALERÍA"
 

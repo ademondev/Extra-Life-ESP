@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:119
     old "De nuit, lumière allumé"
-    new "De noche, luces encendidas"
+    new "De noche, con las luces encendidas"
 
     # game/scripts/fondations/menu_backgrounds.rpy:132
     old "Couloir"
@@ -60,11 +60,11 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:354
     old "Chambre de [noriko_name]"
-    new "El cuarto de [player_name]"
+    new "El cuarto de [noriko_name]"
 
     # game/scripts/fondations/menu_backgrounds.rpy:402
     old "Hall d'entrée"
-    new "Hall de entrada"
+    new "Vestíbulo"
 
     # game/scripts/fondations/menu_backgrounds.rpy:422
     old "De Nuit"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:450
     old "Parc"
-    new "Parc"
+    new "Parque"
 
     # game/scripts/fondations/menu_backgrounds.rpy:498
     old "Dojo"

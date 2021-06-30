@@ -12,5 +12,5 @@ translate spanish strings:
 
     # game/scripts/fondations/disclaimer.rpy:32
     old "Sortez moi d'ici!"
-    new "¡Sácame de aquí!"
+    new "¡Salir de aquí!"
 
