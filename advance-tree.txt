@@ -51,13 +51,13 @@ scripts/
         residential district/
             player's home/(revisados)
 	    home_player_corridor ( revisado)
-            home_player_wifi (done)(Revisado)
+            home_player_wifi (done)(revisado)
         talking/
-            talk_chef (done)(Revisado)
-            talk_chiaki (done)(Revisado)
-            talk_macumba (done)(Revisado
+            talk_chef (done)(revisado)
+            talk_chiaki (done)(revisado)
+            talk_macumba (done)(revisado)
             talk_yasuka( Traducido, revisar posibles errores en el codigo de algunos dialogos)
         world/
-            park (done)(Revisado)
-        intro(done)(Revisado)
-common (done)(Revisado)
+            park (done)(revisado)
+        intro(done)(revisado)
+common (done)(revisado)
