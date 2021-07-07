@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2021-06-25 11:36
+﻿# TODO: Translation updated at 2021-06-25 11:13
 
-translate spanish strings:
+translate german strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:33
     old "> BACKGROUNDS"
@@ -16,15 +16,15 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:89
     old "En soirée"
-    new "Durante la tarde"
+    new "Por la tarde"
 
     # game/scripts/fondations/menu_backgrounds.rpy:104
     old "De nuit"
-    new "Por la noche"
+    new "De noche"
 
     # game/scripts/fondations/menu_backgrounds.rpy:119
     old "De nuit, lumière allumé"
-    new "De noche, luces encendidas"
+    new "De noche, con la luz encendida"
 
     # game/scripts/fondations/menu_backgrounds.rpy:132
     old "Couloir"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:450
     old "Parc"
-    new "Parc"
+    new "Parque"
 
     # game/scripts/fondations/menu_backgrounds.rpy:498
     old "Dojo"
@@ -84,5 +84,25 @@ translate spanish strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:546
     old "Restaurant"
-    new "Restaurante"
+    new "Restaurant"
+
+# TODO: Translation updated at 2021-06-30 19:33
+
+translate german strings:
+
+    # game/scripts/fondations/menu_backgrounds.rpy:74
+    old "Journée"
+    new "Día"
+
+    # game/scripts/fondations/menu_backgrounds.rpy:89
+    old "Soirée"
+    new "Tarde"
+
+    # game/scripts/fondations/menu_backgrounds.rpy:104
+    old "Nuit"
+    new "Noche"
+
+    # game/scripts/fondations/menu_backgrounds.rpy:230
+    old "Nuit, avec lampe de bureau"
+    new "Noche, con lámpara de escritorio"
 
