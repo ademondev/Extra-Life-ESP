@@ -24,7 +24,11 @@ translate german strings:
 
     # game/scripts/fondations/menu_backgrounds.rpy:119
     old "De nuit, lumière allumé"
+<<<<<<< HEAD
+    new "De noche, con la luz encendida"
+=======
     new "De noche, con las luces encendidas"
+>>>>>>> 5fa6b3f7ceb195b5c297f2e1c7ab8419cf6e034f
 
     # game/scripts/fondations/menu_backgrounds.rpy:132
     old "Couloir"

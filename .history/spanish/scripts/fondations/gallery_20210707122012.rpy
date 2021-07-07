@@ -5,6 +5,7 @@ translate german strings:
     # game/scripts/fondations/gallery.rpy:28
     old "> GALERIE"
     new "> GALERÍA"
+<<<<<<< HEAD
 
     # game/scripts/fondations/gallery.rpy:19
     old "OPTIONS"
@@ -17,4 +18,6 @@ translate german strings:
     # game/scripts/fondations/gallery.rpy:100
     old "BACKGROUNDS"
     new "FONDOS"
+=======
+>>>>>>> 5fa6b3f7ceb195b5c297f2e1c7ab8419cf6e034f
 

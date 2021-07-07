@@ -4,33 +4,33 @@ translate spanish strings:
 
     # game/scripts/fondations/cheat.rpy:28
     old "> CHEAT"
-    new ""
+    new "> TRUCOS"
 
     # game/scripts/fondations/cheat.rpy:52
     old "Qu'elle tenue [yasuka_name] doit elle porter?"
-    new ""
+    new "¿Qué debería vestir [yasuka_name]?"
 
     # game/scripts/fondations/cheat.rpy:55
     old "Nuisette sexy"
-    new ""
+    new "Babydoll sexy"
 
     # game/scripts/fondations/cheat.rpy:58
     old "Nue"
-    new ""
+    new "Nada"
 
     # game/scripts/fondations/cheat.rpy:64
     old "Défaut"
-    new ""
+    new "Por defecto"
 
     # game/scripts/fondations/cheat.rpy:79
     old "Qu'elle tenue [noriko_name] doit elle porter?"
-    new ""
+    new "¿Qué debería vestir [noriko_name]?"
 
     # game/scripts/fondations/cheat.rpy:82
     old "Pyjama"
-    new ""
+    new "Pijama"
 
     # game/scripts/fondations/cheat.rpy:106
     old "Qu'elle tenue [chiaki_name] doit elle porter?"
-    new ""
+    new "¿Qué debería vestir [chiaki name]?"
 
