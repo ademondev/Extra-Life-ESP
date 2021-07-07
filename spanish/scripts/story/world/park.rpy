@@ -4,13 +4,13 @@
 translate spanish park_1e0685d3:
 
     # kenji "Ahaha ! J'y crois pas, mais quel abruti ce {color=#32ff7e}{b}[macumba_name]{/b}{/color}!" id park_1e0685d3
-    kenji "¡Jajaja! No puedo creer lo idiota que este {color=#32ff7e}{b}[macumba_name]{/b}{/color} es" id park_1e0685d3
+    kenji "¡Jajaja! No puedo creer lo idiota que este {color=#32ff7e}{b}[macumba_name]{/b}{/color} es." id park_1e0685d3
 
 # game/scripts/story/world/park.rpy:48
 translate spanish park_2a6c121a:
 
     # nobu "Il a vraiment tout gobé..." id park_2a6c121a
-    nobu "El se creyo todo..." id park_2a6c121a
+    nobu "Él se lo creyó todo..." id park_2a6c121a
 
 # game/scripts/story/world/park.rpy:49
 translate spanish park_1c3508b4:
@@ -28,7 +28,7 @@ translate spanish park_95ebf3f3:
 translate spanish park_64b4a8a4:
 
     # nobu "C'est clair, t'as vu sa coupe de cheveux? C'est pire que celle de {color=#dddddd}{b}[takeo_name]{/b}{/color}." id park_64b4a8a4
-    nobu "Es obvio, ¿Viste su corte de pelo? es peor que el de {color=#dddddd}{b}[takeo_name]{/b}{/color}." id park_64b4a8a4
+    nobu "Es obvio, ¿Viste su corte de pelo? Es peor que el de {color=#dddddd}{b}[takeo_name]{/b}{/color}." id park_64b4a8a4
 
 # game/scripts/story/world/park.rpy:52
 translate spanish park_b7684e04:
@@ -40,19 +40,19 @@ translate spanish park_b7684e04:
 translate spanish park_f87fbcf3:
 
     # x "Ah putain, pas eux..." id park_f87fbcf3
-    x "Ah mierda...ellos no" id park_f87fbcf3
+    x "Ah mierda...ellos no." id park_f87fbcf3
 
 # game/scripts/story/world/park.rpy:64
 translate spanish park_a55015fa:
 
     # x "Les trois casses couilles de services..." id park_a55015fa
-    x "Estos tres imbeciles" id park_a55015fa
+    x "Estos tres imbeciles." id park_a55015fa
 
 # game/scripts/story/world/park.rpy:65
 translate spanish park_a9d8a4ee:
 
     # x "Ils m'on tellement causé de problemes eux aussi par le passé..." id park_a9d8a4ee
-    x "Ellos me molestan desde que tengo memoria" id park_a9d8a4ee
+    x "Me molestan desde que tengo memoria." id park_a9d8a4ee
 
 # game/scripts/story/world/park.rpy:66
 translate spanish park_a21e86ee:
@@ -64,19 +64,19 @@ translate spanish park_a21e86ee:
 translate spanish park_585822e9:
 
     # x "Maintenant que j'y pense... Dans mon rêve les trois finissent en prison." id park_585822e9
-    x "Ahora que lo pienso... en mi sueño estos tres terminaron en la carcel" id park_585822e9
+    x "Ahora que lo pienso... en mi sueño estos tres terminaron en la cárcel" id park_585822e9
 
 # game/scripts/story/world/park.rpy:68
 translate spanish park_87de722d:
 
     # x "Je suppose que l'histoire se termine bien..." id park_87de722d
-    x "Bueno supongo que ese es uno de los finales felices" id park_87de722d
+    x "Bueno supongo que puede ser considerado uno de los pocos finales felices." id park_87de722d
 
 # game/scripts/story/world/park.rpy:75
 translate spanish park_7286f61d:
 
     # kenji -mocking "...Mais ?!" id park_7286f61d
-    kenji -mocking "¿Que mierda?" id park_7286f61d
+    kenji -mocking "¿Qué mierda?" id park_7286f61d
 
 # game/scripts/story/world/park.rpy:76
 translate spanish park_87370559:
@@ -88,7 +88,7 @@ translate spanish park_87370559:
 translate spanish park_dffd5479:
 
     # kenji "Son baladeur..." id park_dffd5479
-    kenji "Su mp3..." id park_dffd5479
+    kenji "Su reproductor..." id park_dffd5479
 
 # game/scripts/story/world/park.rpy:78
 translate spanish park_84b9536c:
@@ -100,7 +100,7 @@ translate spanish park_84b9536c:
 translate spanish park_ba87448d:
 
     # kenji angry "ME TRAITE PAS DE BÂTARD, BÂTARD !" id park_ba87448d
-    kenji angry "{i}Tú eres{/i} el payaso imbecil" id park_ba87448d
+    kenji angry "{i}Tú eres{/i} el payaso imbécil" id park_ba87448d
 
 # game/scripts/story/world/park.rpy:80
 translate spanish park_32e817fc:
@@ -118,37 +118,37 @@ translate spanish park_a8052f03:
 translate spanish park_5dd8b911:
 
     # kenji disgusted "...Un putain de baladeur cassette !" id park_5dd8b911
-    kenji disgusted "...un maldito cassette player" id park_5dd8b911
+    kenji disgusted "... Es solo un maldito reproductor de Cassete's" id park_5dd8b911
 
 # game/scripts/story/world/park.rpy:83
 translate spanish park_09f6167f:
 
     # nobu disgusted "Un quoi ?!" id park_09f6167f
-    nobu disgusted "¡¿Que?!" id park_09f6167f
+    nobu disgusted "¡¿Qué?!" id park_09f6167f
 
 # game/scripts/story/world/park.rpy:84
 translate spanish park_60add176:
 
     # takeo -angry "Un truc pour écouter de la musique mais pas avec des CD." id park_60add176
-    takeo -angry "Esas mierdas que los viejos usaban para escuchar musica antes que los CDs" id park_60add176
+    takeo -angry "Son esas mierdas que los viejos usaban para escuchar música antes que los CD’s" id park_60add176
 
 # game/scripts/story/world/park.rpy:85
 translate spanish park_ec5e56fd:
 
     # kenji angry "Fait chier, ce mec est coincé dans les années 90 ou quoi ?" id park_ec5e56fd
-    kenji angry "Hermano ¿este tipo salio de los 80s?" id park_ec5e56fd
+    kenji angry "Hermano ¿Este sujeto salió de los 80s?" id park_ec5e56fd
 
 # game/scripts/story/world/park.rpy:86
 translate spanish park_6b75bb52:
 
     # nobu -disgusted "Explose-lui son truc." id park_6b75bb52
-    nobu -disgusted "Pateemosle el culo" id park_6b75bb52
+    nobu -disgusted "Pateémosle el culo" id park_6b75bb52
 
 # game/scripts/story/world/park.rpy:87
 translate spanish park_70d7e8f1:
 
     # takeo "Vas-y, donne, j'ai envie de détruire quelque chose là tout de suite !" id park_70d7e8f1
-    takeo "Hombre, rompamoslo y veamos que hay dentro" id park_70d7e8f1
+    takeo "Hombre, rompámoslo y veamos que hay dentro" id park_70d7e8f1
 
 # game/scripts/story/world/park.rpy:89
 translate spanish park_559686eb:
@@ -160,25 +160,25 @@ translate spanish park_559686eb:
 translate spanish park_8fd83993:
 
     # kenji bad "Eh bé ! C'est fragile, cette merde..." id park_8fd83993
-    kenji bad "¡Wow! Esta mierda es fragil..." id park_8fd83993
+    kenji bad "¡Wow! Que mierda tan fragil..." id park_8fd83993
 
 # game/scripts/story/world/park.rpy:92
 translate spanish park_1e7e3b1b:
 
     # nobu disgusted "HEY ! Y'A DES BOYAUX QUI SORTENT BORDEL !" id park_1e7e3b1b
-    nobu disgusted "¡Hey! mira las tripas estan saliendo" id park_1e7e3b1b
+    nobu disgusted "¡Hey! mira sus tripas se están saliendo" id park_1e7e3b1b
 
 # game/scripts/story/world/park.rpy:93
 translate spanish park_74593b43:
 
     # takeo "C'est pas des boyaux, c'est la bande de la cassette et..." id park_74593b43
-    takeo "No son intestinos, es la cinta del cassette..." id park_74593b43
+    takeo "No son intestinos, es la cinta de Cassete idiota..." id park_74593b43
 
 # game/scripts/story/world/park.rpy:94
 translate spanish park_352a748d:
 
     # kenji -bad "Laisse tomber, ce bâtard ne comprend jamais rien..." id park_352a748d
-    kenji -bad "¿Crees que este idiota sabe lo que es?" id park_352a748d
+    kenji -bad "¿Crees que el idiota sabe que es eso?" id park_352a748d
 
 # game/scripts/story/world/park.rpy:95
 translate spanish park_67395cbb:
@@ -190,7 +190,7 @@ translate spanish park_67395cbb:
 translate spanish park_1b94754d:
 
     # takeo angry "C'EST TOI LE BÂTARD ALORS BOUCLE-LÀ !" id park_1b94754d
-    takeo angry "¡Yo no soy el que comia pegamendo de niño!" id park_1b94754d
+    takeo angry "¡Yo no soy el que comía pegamento de niño!" id park_1b94754d
 
 # game/scripts/story/world/park.rpy:97
 translate spanish park_fbf59ca1:
@@ -202,7 +202,7 @@ translate spanish park_fbf59ca1:
 translate spanish park_a42dc974:
 
     # x "...Heureusement que j'ai pas eu affaire à eux..." id park_a42dc974
-    x "...Bueno, estoy contento de que estan muy ocupados para darse cuenta de que estoy aqui" id park_a42dc974
+    x "...Bueno, estoy feliz de que estén muy ocupados para darse cuenta de que estoy aquí." id park_a42dc974
 
 # game/scripts/story/world/park.rpy:111
 translate spanish park_0bbeaa64:
@@ -220,13 +220,13 @@ translate spanish park_27eadf60:
 translate spanish park_4c01067c:
 
     # x "Son propriétaire ne doit pas être bien loin..." id park_4c01067c
-    x "Quizas el dueño sigue cerca..." id park_4c01067c
+    x "Quizas el dueño siga cerca..." id park_4c01067c
 
 translate spanish strings:
 
     # game/scripts/story/world/park.rpy:36
     old "Je dois rendre ça à son propriétaire..."
-    new "Tengo que darle esto a su dueño..."
+    new "Tengo que regresarle esto a su dueño..."
 
     # game/scripts/story/world/park.rpy:114
     old "Vous obtenez le baladeur détruit"

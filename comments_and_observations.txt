@@ -1,3 +1,8 @@
 interface.py: algunos diálogos se encontraban en inglés pero no en español
 s_home_players_room.py: algunos diálogos se encontraban en inglés pero no en español
 s_city.py: algunos diálogos se encontraban en inglés pero no en español
+talk_yasuka.rpy: Revisar codigo de algunos dialogos, la traducción ya esta realizada.
+pc_noriko.rpy: Faltan algunos codigos "menores" que estan en la versión inglesa(Aproximadamente unos 3-5)
+home_player_exterior.rpy: Hace falta un dialogo "Dénigre / Denigrate"
+common.rpy: En este archivo solo se hicieron modificiaciones con respecto a gramatica. No obstante recomiendo que se vuelva a revisar por alguien con mejor conocimiento del código.
+

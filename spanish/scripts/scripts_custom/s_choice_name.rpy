@@ -4,9 +4,8 @@ translate spanish strings:
 
     # game/scripts/scripts_custom/s_choice_name.rpy:20
     old "Indiquez votre nom"
-    new "Ingrese su nombre"
+    new "Ingresa tú nombre"
 
     # game/scripts/scripts_custom/s_choice_name.rpy:28
     old "**Vous pourrez le modifier à tout moment dans l'aventure."
-    new "Seras capaz de cambiarlo a traves del menu opciones"
-
+    new "**Puedes volver a cambiarlo a través del menú de opciones"

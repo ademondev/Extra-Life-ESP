@@ -22,13 +22,13 @@ translate spanish talk_chiaki_3b1fbc71:
 translate spanish talk_chiaki_862eaf93:
 
     # player "Tout va bien ? {color=#e17055}{b}[minato_name]{/b}{/color} est avec toi ?" id talk_chiaki_862eaf93
-    player "¿Esta todo bien?, ¿{color=#e17055}{b}[minato_name]{/b}{/color} esta contigo?" id talk_chiaki_862eaf93
+    player "¿Está todo bien?, ¿{color=#e17055}{b}[minato_name]{/b}{/color} esta contigo?" id talk_chiaki_862eaf93
 
 # game/scripts/story/talking/talk_chiaki.rpy:24
 translate spanish talk_chiaki_f92aacbb:
 
     # chiaki "{size=-7}Oui...{/size}" id talk_chiaki_f92aacbb
-    chiaki "{size=-7}si...{/size}" id talk_chiaki_f92aacbb
+    chiaki "{size=-7}Si...{/size}" id talk_chiaki_f92aacbb
 
 # game/scripts/story/talking/talk_chiaki.rpy:32
 translate spanish talk_chiaki_27895173:
@@ -58,13 +58,13 @@ translate spanish talk_chiaki_716e7c46:
 translate spanish talk_chiaki_0ad6e710:
 
     # minato suspicious "Désolé mec, mais laisser ma petite sœur seule dehors sans surveillance... C'est mort !" id talk_chiaki_0ad6e710
-    minato suspicious "Lo siento, pero dejar a mi hermanita afuera sola...¡Cualquier cosa podria pasarle!" id talk_chiaki_0ad6e710
+    minato suspicious "Lo siento, pero dejar a mi hermanita afuera sola... ¡Sabes que cualquier cosa podría pasarle!" id talk_chiaki_0ad6e710
 
 # game/scripts/story/talking/talk_chiaki.rpy:43
 translate spanish talk_chiaki_5e674933:
 
     # minato "Qui sais quel genre de types louches il y a dans ce quartier." id talk_chiaki_5e674933
-    minato "¿Quien sabe que tipo de extraños viven en este vecindario?" id talk_chiaki_5e674933
+    minato "Quien sabe qué tipo de extraños viven en este vecindario." id talk_chiaki_5e674933
 
 # game/scripts/story/talking/talk_chiaki.rpy:44
 translate spanish talk_chiaki_4f59b177:
@@ -76,25 +76,25 @@ translate spanish talk_chiaki_4f59b177:
 translate spanish talk_chiaki_1962963d:
 
     # player "Il va bien falloir couper le cordon un jour ou l'autre." id talk_chiaki_1962963d
-    player "Ella tendra que cuidarse sola algun dia" id talk_chiaki_1962963d
+    player "Ella tendrá que cuidarse sola algún día." id talk_chiaki_1962963d
 
 # game/scripts/story/talking/talk_chiaki.rpy:49
 translate spanish talk_chiaki_f632b70a:
 
     # minato "Ta g..... bouche !" id talk_chiaki_f632b70a
-    minato "Cierra tu mal... solo callate" id talk_chiaki_f632b70a
+    minato "Cierra tu mal... solo cállate." id talk_chiaki_f632b70a
 
 # game/scripts/story/talking/talk_chiaki.rpy:51
 translate spanish talk_chiaki_bb55377a:
 
     # minato upset "Qu'est-ce que ta mangé ce matin ? Je ne te reconnais plus." id talk_chiaki_bb55377a
-    minato upset "¿Que comiste esta mañana? Ni siquiera puedo reconocerte" id talk_chiaki_bb55377a
+    minato upset "¿Qué comiste esta mañana? Ni siquiera puedo reconocerte." id talk_chiaki_bb55377a
 
 # game/scripts/story/talking/talk_chiaki.rpy:52
 translate spanish talk_chiaki_d69c4c9d:
 
     # player "Tu ne me croirais même pas si je te le disais!" id talk_chiaki_d69c4c9d
-    player "No me creerias si te lo dijiese" id talk_chiaki_d69c4c9d
+    player "No me creerías si te lo dijera." id talk_chiaki_d69c4c9d
 
 # game/scripts/story/talking/talk_chiaki.rpy:53
 translate spanish talk_chiaki_5228aa1b:
@@ -112,13 +112,13 @@ translate spanish talk_chiaki_50200393:
 translate spanish talk_chiaki_4b3d29ff:
 
     # player "Ah ?! Pas c'est pas trop grave, j'espère ?" id talk_chiaki_4b3d29ff
-    player "¿Sobre que?" id talk_chiaki_4b3d29ff
+    player "¿Sobre qué?" id talk_chiaki_4b3d29ff
 
 # game/scripts/story/talking/talk_chiaki.rpy:56
 translate spanish talk_chiaki_c0d58c59:
 
     # minato neutral "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, va m'attendre un peu plus loin s'il te plait, je dois discuter de problèmes de grands..." id talk_chiaki_c0d58c59
-    minato neutral "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, Puedes irte por un rato ¿por favor? {b}{color=#0984e3}[player_name]{/color}{/b} y yo tenemos que hablar de algo personal." id talk_chiaki_c0d58c59
+    minato neutral "{color=#ffcccc}{b}[chiaki_name]{/b}{/color}, ¿Puedes dejarnos solos un rato?, por favor. {b}{color=#0984e3}[player_name]{/color}{/b} y yo tenemos que hablar de algo personal." id talk_chiaki_c0d58c59
 
 # game/scripts/story/talking/talk_chiaki.rpy:57
 translate spanish talk_chiaki_b0b6e396:
@@ -142,25 +142,25 @@ translate spanish talk_chiaki_b528d151:
 translate spanish talk_chiaki_bf5063a2:
 
     # minato "Je ne comprends pas pourquoi tu ne l'envoies pas chier un bon coup." id talk_chiaki_bf5063a2
-    minato "No entiendo porque no le dices que se vaya al infierno de una vez por todas" id talk_chiaki_bf5063a2
+    minato "No entiendo porque no le dices que se vaya al infierno de una vez por todas." id talk_chiaki_bf5063a2
 
 # game/scripts/story/talking/talk_chiaki.rpy:68
 translate spanish talk_chiaki_76ce43a3:
 
     # player sad "C'est pas l'envie qui m'en manque, mais elle est extrêmement rancunière..." id talk_chiaki_76ce43a3
-    player sad "No es que no quiera defenderme, pero...ella realmente me odia. Quien sabe que podria hacer en respuesta..." id talk_chiaki_76ce43a3
+    player sad "No es que no quiera defenderme, pero...ella realmente me odia. Quien sabe que podría hacer en respuesta..." id talk_chiaki_76ce43a3
 
 # game/scripts/story/talking/talk_chiaki.rpy:69
 translate spanish talk_chiaki_ac1426f0:
 
     # player "Et puis si c'est pour la surprendre à glisser à nouveau du produit vaiselle dans ce que je bouffe, merci..." id talk_chiaki_ac1426f0
-    player "Ella puso detergente en mi comida la ultima vez" id talk_chiaki_ac1426f0
+    player "Ella puso detergente en mi comida la última vez" id talk_chiaki_ac1426f0
 
 # game/scripts/story/talking/talk_chiaki.rpy:70
 translate spanish talk_chiaki_c796144a:
 
     # player neutral "Bon.. De quoi voulais-tu parler ? C'était nécessaire d'éloigner {color=#ffcccc}{b}[chiaki_name]{/b}{/color} ?" id talk_chiaki_c796144a
-    player neutral "Bueno... ¿que es tan importante para mandar a {color=#ffcccc}{b}Chiaki{/b}{/color} lejos?" id talk_chiaki_c796144a
+    player neutral "Bueno... ¿Qué es tan importante para mandar  {color=#ffcccc}{b}Chiaki{/b}{/color} lejos?" id talk_chiaki_c796144a
 
 # game/scripts/story/talking/talk_chiaki.rpy:71
 translate spanish talk_chiaki_274794e5:
@@ -178,13 +178,13 @@ translate spanish talk_chiaki_07a40337:
 translate spanish talk_chiaki_b2b9ec7e:
 
     # player happy "Tu avais ma curiosité, mais maintenant tu as toute mon attention !" id talk_chiaki_b2b9ec7e
-    player happy "Tenias mi curiosidad, ¡Pero ahora tienes mi atención completa!." id talk_chiaki_b2b9ec7e
+    player happy "Tenía mi curiosidad, ¡Pero ahora tienes toda mi atención!" id talk_chiaki_b2b9ec7e
 
 # game/scripts/story/talking/talk_chiaki.rpy:74
 translate spanish talk_chiaki_b539d88a:
 
     # minato "Je vais faire bref car on m'attend ailleurs, mais c'est au sujet de la rentrée..." id talk_chiaki_b539d88a
-    minato "Tengo que irme a cierto lugar asi que sere rapido. Es sobre la escuela..." id talk_chiaki_b539d88a
+    minato "Tengo que irme a cierto lugar así que seré rápido. Es sobre la escuela..." id talk_chiaki_b539d88a
 
 # game/scripts/story/talking/talk_chiaki.rpy:75
 translate spanish talk_chiaki_fc178d1d:
@@ -202,25 +202,25 @@ translate spanish talk_chiaki_ab9462ca:
 translate spanish talk_chiaki_e5589305:
 
     # minato "À la rentrée, plus personne ne devrait te poser de problèmes !" id talk_chiaki_e5589305
-    minato "Cuando vuelvas a la escuela, ¡No deberian de darte mas problemas!" id talk_chiaki_e5589305
+    minato "Cuando vuelvas a la escuela, ¡No deberían de darte más problemas!" id talk_chiaki_e5589305
 
 # game/scripts/story/talking/talk_chiaki.rpy:78
 translate spanish talk_chiaki_b4f7a4e7:
 
     # player surprised "Whoa, rien que ça ?!" id talk_chiaki_b4f7a4e7
-    player surprised "¡¿Como es eso posible?!" id talk_chiaki_b4f7a4e7
+    player surprised "¡¿Cómo es eso posible?!" id talk_chiaki_b4f7a4e7
 
 # game/scripts/story/talking/talk_chiaki.rpy:79
 translate spanish talk_chiaki_30159f39:
 
     # minato "Je fais mon possible pour mon meilleur pote. Après-tout, t'es comme une seconde petite soeur pour moi." id talk_chiaki_30159f39
-    minato "Todo por mi mejor amigo. Despues de todo eres como una segunda hermanita para mi." id talk_chiaki_30159f39
+    minato "Todo por mi mejor amigo. Después de todo eres como una segunda hermanita para mí." id talk_chiaki_30159f39
 
 # game/scripts/story/talking/talk_chiaki.rpy:80
 translate spanish talk_chiaki_fbb7d968:
 
     # player upset "Enfoiré !" id talk_chiaki_fbb7d968
-    player upset "Imbecil" id talk_chiaki_fbb7d968
+    player upset "Imbécil." id talk_chiaki_fbb7d968
 
 # game/scripts/story/talking/talk_chiaki.rpy:81
 translate spanish talk_chiaki_50276a38:
@@ -232,7 +232,7 @@ translate spanish talk_chiaki_50276a38:
 translate spanish talk_chiaki_e354d288:
 
     # minato "On en discutera plus longuement si tu veux, il y a pas mal de choses à dire." id talk_chiaki_e354d288
-    minato "Puedo contarte mas si quieres. Es una muy buena historia" id talk_chiaki_e354d288
+    minato "Puedo contarte más si quieres. Es una muy buena historia." id talk_chiaki_e354d288
 
 # game/scripts/story/talking/talk_chiaki.rpy:83
 translate spanish talk_chiaki_25d634d5:
@@ -244,7 +244,7 @@ translate spanish talk_chiaki_25d634d5:
 translate spanish talk_chiaki_fc2121d5:
 
     # minato "Passe chez moi dans deux ou trois jours." id talk_chiaki_fc2121d5
-    minato "Ven a mi casa en unos dos o tres dias." id talk_chiaki_fc2121d5
+    minato "Ven a mi casa en unos dos o tres días." id talk_chiaki_fc2121d5
 
 # game/scripts/story/talking/talk_chiaki.rpy:85
 translate spanish talk_chiaki_166c7009:
@@ -262,7 +262,7 @@ translate spanish talk_chiaki_03775ec8:
 translate spanish talk_chiaki_f1bcb9e8:
 
     # x "Mouais... J'ai pas l'impression que ça va faciliter ma rentrée." id talk_chiaki_f1bcb9e8
-    x "Bueno...no hizo la escuela mucho mas facil" id talk_chiaki_f1bcb9e8
+    x "Bueno...no hizo la escuela mucho más fácil" id talk_chiaki_f1bcb9e8
 
 # game/scripts/story/talking/talk_chiaki.rpy:95
 translate spanish talk_chiaki_b5c09f91:
@@ -274,13 +274,13 @@ translate spanish talk_chiaki_b5c09f91:
 translate spanish talk_chiaki_e5e3c9ef:
 
     # x "J'imagine qu'ils ont dû s'en prendre à lui par la suite..." id talk_chiaki_e5e3c9ef
-    x "¿Ellos se habian vengado despues de esto?" id talk_chiaki_e5e3c9ef
+    x "¿No ellos se habían vengado después de esto?" id talk_chiaki_e5e3c9ef
 
 # game/scripts/story/talking/talk_chiaki.rpy:97
 translate spanish talk_chiaki_8777289c:
 
     # x "...Et c'est certainement pour ça qu'on se perdra ensuite de vue !" id talk_chiaki_8777289c
-    x "...¡Y ahi fue cuando perdimos contacto!" id talk_chiaki_8777289c
+    x "... ¡Fue ahí cuando perdimos contacto!" id talk_chiaki_8777289c
 
 # game/scripts/story/talking/talk_chiaki.rpy:98
 translate spanish talk_chiaki_245415ef:
@@ -292,7 +292,7 @@ translate spanish talk_chiaki_245415ef:
 translate spanish talk_chiaki_fcbf7961:
 
     # x "Je dois trouver le moyen de me sortir de cet enfer tout seul !" id talk_chiaki_fcbf7961
-    x "¡Tengo que encontrar el modo de salir de este infierno con mis propios medios!" id talk_chiaki_fcbf7961
+    x "¡Tengo que encontrar el modo de salir de este infierno por mis propios medios!" id talk_chiaki_fcbf7961
 
 # game/scripts/story/talking/talk_chiaki.rpy:103
 translate spanish talk_chiaki_be9b4517:
@@ -304,11 +304,11 @@ translate spanish talk_chiaki_be9b4517:
 translate spanish talk_chiaki_584aae08:
 
     # player upset "Trop tard pour aller courir, autant aller voir si ça recrute au {color=#efdf31}{b}restaurant{/b}{/color} du coin !" id talk_chiaki_584aae08
-    player upset "Muy tarde para ir a correr, ¡mejor voy a ver si estan buscando trabajadores en el {color=#efdf31}{b}restaurante{/b}{/color}!" id talk_chiaki_584aae08
+    player upset "Es muy tarde para ir a correr, ¡mejor voy a ver si están buscando trabajadores en el{color=#efdf31}{b}restaurante{/b}{/color}!" id talk_chiaki_584aae08
 
 translate spanish strings:
 
     # game/scripts/story/talking/talk_chiaki.rpy:9
     old "Trop tard pour courir essayez plutot\nle {color=#FFFF00}{b}restaurant{/b}{/color} un peu plus loin."
-    new "Muy tarde para correr. Deberias ir a intentarlo en\nel {color=#FFFF00}{b}restaurante{/b}{/color} del pueblo."
+    new "Es muy tarde para correr. Deberías ir a intentarlo en\nel {color=#FFFF00}{b}restaurante{/b}{/color} del pueblo."
 

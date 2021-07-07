@@ -16,11 +16,11 @@ translate spanish strings:
 
     # game/scripts/scripts_custom/credit.rpy:16
     old "Merci à tous les contributeurs qui nous soutiennent,\nsans eux ce projet n'existerait tout simplement pas!"
-    new "Gracias a todos los contribuyentes que nos apoyaron, sin ellos este proyecto simplemente no podría existir"
+    new "¡Gracias a todos los contribuyentes que nos apoyaron, Sin ellos este proyecto simplemente no existiría!"
 
     # game/scripts/scripts_custom/credit.rpy:24
     old "Histoire / Programmation / Design"
-    new "Historia / Programacion / Diseño"
+    new "Historia / Programación / Diseño"
 
     # game/scripts/scripts_custom/credit.rpy:49
     old "Traduction"
@@ -28,9 +28,9 @@ translate spanish strings:
 
     # game/scripts/scripts_custom/credit.rpy:55
     old "Localisation | Relecture"
-    new "Localización | Editor"
+    new "Localización | Edición"
 
     # game/scripts/scripts_custom/credit.rpy:61
     old "Un grand merci à"
-    new "Gracias especialmente a"
+    new "Gracias especiales a"
 

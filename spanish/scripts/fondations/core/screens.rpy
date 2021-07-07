@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:444
     old "GALERIE"
-    new "GALERIA"
+    new "GALERÍA"
 
     # game/scripts/fondations/core/screens.rpy:496
     old "PATREON"
@@ -128,7 +128,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1386
     old "Transitions"
-    new "Trancisiones"
+    new "Transiciones"
 
     # game/scripts/fondations/core/screens.rpy:1397
     old "Français"
@@ -228,7 +228,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1648
     old "Cache l’interface utilisateur."
-    new "Esconde la interfaz de usuario"
+    new "Esconde la interfaz del usuario"
 
     # game/scripts/fondations/core/screens.rpy:1652
     old "Prend une capture d’écran."
@@ -236,11 +236,11 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1656
     old "Active la {a=https://www.renpy.org/l/voicing}{size=24}vocalisation automatique{/size}{/a}."
-    new "Activa {a=https://www.renpy.org/l/voicing}{size=24}vocalisation automatique{/size}{/a}."
+    new "Activa la {a=https://www.renpy.org/l/voicing}{size=24}vocalización automática{/size}{/a}."
 
     # game/scripts/fondations/core/screens.rpy:1662
     old "Bouton gauche"
-    new "Botón izquierda"
+    new "Botón izquierdo"
 
     # game/scripts/fondations/core/screens.rpy:1666
     old "Bouton central"
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1689
     old "Left Trigger\nLeft Shoulder"
-    new "Gatillo izquierdo\nHombro izquierdo"
+    new "Gatillo izquierdo\nInterruptor izquierdo"
 
     # game/scripts/fondations/core/screens.rpy:1693
     old "Bouton R1"
@@ -288,7 +288,7 @@ translate spanish strings:
 
     # game/scripts/fondations/core/screens.rpy:1777
     old "Oui"
-    new "Yes"
+    new "Si"
 
     # game/scripts/fondations/core/screens.rpy:1781
     old "Non"

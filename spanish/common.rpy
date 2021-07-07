@@ -16,15 +16,15 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "barra"
+    new "Barra"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "seleccionada"
+    new "Seleccionado"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "viewport"
+    new "Viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
@@ -56,7 +56,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new "Default"
+    new "Por defecto"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -104,7 +104,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Las opciones que hay en este menú tienen como fin mejorar la accesibilidad. Puede que no funcionen con todos los juegos, y algunas combinaciones de estas opciones puede que hagan el juego imposible de jugar. Este no es un problema con el juego o el motor (renpy). Para mejores resultados al cambiar de fuente, intente mantener el tamaño del texto como estaba originalmente."
+    new "Las opciones que hay en este menú tienen como fin mejorar la accesibilidad. Puede que no funcionen con todos los juegos, y algunas combinaciones de estas opciones puede que hagan el juego imposible de jugar. Este no es un problema con el juego o el motor (Renpy). Para mejores resultados al cambiar de fuente, intente mantener el tamaño del texto como estaba originalmente."
 
     # renpy/common/00accessibility.rpy:207
     old "Return"
@@ -148,7 +148,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Mier"
+    new "{#weekday_short}Mie"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
@@ -160,11 +160,11 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sa"
+    new "{#weekday_short}Sab"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Do"
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
@@ -216,7 +216,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short}En"
+    new "{#month_short}Ene"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
@@ -280,7 +280,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:566
     old "File page auto"
-    new "Página de archivo automática"
+    new "Página de archivo automático"
 
     # renpy/common/00action_file.rpy:568
     old "File page quick"
@@ -304,11 +304,11 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:769
     old "Next file page."
-    new "Página del archivo siguiente"
+    new "Página de archivo siguiente"
 
     # renpy/common/00action_file.rpy:841
     old "Previous file page."
-    new "Página del archivo anterior"
+    new "Página de archivo anterior"
 
     # renpy/common/00action_file.rpy:902
     old "Quick save complete."
@@ -428,7 +428,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:384
     old "Are you sure you want to overwrite your save?"
-    new "¿Estás seguro/a que quieres sobreescribir tu archivo de guardado?"
+    new "¿Estás seguro/a que quieres sobrescribir tu archivo de guardado?"
 
     # renpy/common/00gui.rpy:385
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
@@ -448,15 +448,15 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to begin skipping?"
-    new "¿Estás seguro/a de que quieres empezar a saltear diálogos?"
+    new "¿Estás seguro/a de que quieres empezar a saltar diálogos?"
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to skip to the next choice?"
-    new "¿Estás seguro/a de que quieres saltear hasta la próxima elección?"
+    new "¿Estás seguro/a de que quieres saltar hasta la próxima elección?"
 
     # renpy/common/00gui.rpy:391
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "¿Estás seguro/a de que quieres saltearte diálogos que no has visto hasta la próxima elección?"
+    new "¿Estás seguro/a de que quieres saltarte diálogos que no has visto hasta la próxima elección?"
 
     # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
@@ -468,11 +468,11 @@ translate spanish strings:
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "Modo de salteo"
+    new "Modo de saltado"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Este programa contiene software gratuito bajo un número de licencias, inlcuyendo el MIT License and GNU Lesser General Public License. Una lista completa de software, incluyendo links al código fuente completo, puede ser encontrada {a=https://www.renpy.org/l/license}aquí{/a}."
+    new "Este programa contiene software gratuito bajo un número de licencias, incluyendo el MIT License and GNU Lesser General Public License. Una lista completa de software, incluyendo links al código fuente completo, puede ser encontrada {a=https://www.renpy.org/l/license}aquí{/a}."
 
     # renpy/common/00preferences.rpy:240
     old "display"
@@ -512,15 +512,15 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:299
     old "skip unseen [text]"
-    new "saltear no visto [text]"
+    new "saltar no visto [text]"
 
     # renpy/common/00preferences.rpy:304
     old "skip unseen text"
-    new "saltear texto no visto"
+    new "saltar texto no visto"
 
     # renpy/common/00preferences.rpy:306
     old "begin skipping"
-    new "empezar a saltear"
+    new "empezar a saltar"
 
     # renpy/common/00preferences.rpy:310
     old "after choices"
@@ -528,7 +528,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:317
     old "skip after choices"
-    new "saltear después de decisiones"
+    new "saltar después de decisiones"
 
     # renpy/common/00preferences.rpy:319
     old "auto-forward time"
@@ -536,7 +536,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward"
-    new "auto-adelatnar"
+    new "auto-adelantar"
 
     # renpy/common/00preferences.rpy:340
     old "Auto forward"
@@ -564,7 +564,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:388
     old "self voicing volume drop"
-    new "voicing automática de caída de volumen"
+    new "voicing automática de caída del volumen"
 
     # renpy/common/00preferences.rpy:396
     old "clipboard voicing"
@@ -604,7 +604,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:456
     old "font line spacing"
-    new "tamaño de espaciado de línea de la fuente"
+    new "tamaño de espaciado de la línea fuente"
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
@@ -668,7 +668,7 @@ translate spanish strings:
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Menú de desarrolladora"
+    new "Menú de desarrollador"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -820,7 +820,7 @@ translate spanish strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "Contactado a la App Store\nPor favor espere..."
+    new "Contactando a la App Store\nPor favor espere..."
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -840,7 +840,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new "Esta cuenta not tiene permiso para escribir el log de actualizaciones."
+    new "Esta cuenta no tiene permiso para escribir el log de actualizaciones."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
@@ -872,7 +872,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new "Este programa está a la fecha."
+    new "Este programa está actualizado."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
@@ -1012,7 +1012,7 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new "Los cambiós tomarán efecto la próxima vez que este programa sea ejecutado."
+    new "Los cambios sufrirán efecto la próxima vez que este programa sea ejecutado."
 
     # renpy/common/00gltest.rpy:214
     old "Quit"
@@ -1144,7 +1144,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new "Abre la consola para permittir que se pueda debuggear el problema."
+    new "Abre la consola para permitir que se pueda debuggear el problema."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."

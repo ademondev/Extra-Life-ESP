@@ -4,7 +4,7 @@
 translate spanish home_player_livingroom_14d1dd88:
 
     # yasuka "Et bien, vous en faites du bruit, que s'est-il passé ?" id home_player_livingroom_14d1dd88
-    yasuka "Escuche mucho ruido anoche, ¿Que paso?" id home_player_livingroom_14d1dd88
+    yasuka "Escuche mucho ruido anoche, ¿Qué paso?" id home_player_livingroom_14d1dd88
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:52
 translate spanish home_player_livingroom_c1b81041:
@@ -16,7 +16,7 @@ translate spanish home_player_livingroom_c1b81041:
 translate spanish home_player_livingroom_d164d18b:
 
     # yasuka -happy "...En effet... Ton regard est différent ce matin..." id home_player_livingroom_d164d18b
-    yasuka -happy "Bueno te ves realmente diferente hoy" id home_player_livingroom_d164d18b
+    yasuka -happy "Bueno realmente te ves diferente hoy." id home_player_livingroom_d164d18b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:54
 translate spanish home_player_livingroom_f8ab96b4:
@@ -28,37 +28,37 @@ translate spanish home_player_livingroom_f8ab96b4:
 translate spanish home_player_livingroom_eb97d1ff:
 
     # yasuka "Tu me racontes ?" id home_player_livingroom_eb97d1ff
-    yasuka "Cuentame sobre ello" id home_player_livingroom_eb97d1ff
+    yasuka "Cuéntame sobre ello" id home_player_livingroom_eb97d1ff
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:56
 translate spanish home_player_livingroom_f7646059:
 
     # player sad "Euh... J'ai peur que tout ne soit qu'un rêve alors pour l'instant je préfère ne rien te dire..." id home_player_livingroom_f7646059
-    player sad "Eh...esta todo borroso, no puedo contarte tanto" id home_player_livingroom_f7646059
+    player sad "Eh... esta todo borroso, no puedo contarte en realidad." id home_player_livingroom_f7646059
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:57
 translate spanish home_player_livingroom_cf9964e7:
 
     # yasuka pouting "Oooh... mais je suis curieuse moi !" id home_player_livingroom_cf9964e7
-    yasuka pouting "Ohhh...¡pero me da curiosidad!" id home_player_livingroom_cf9964e7
+    yasuka pouting "Ohhh... ¡Pero tengo curiosidad!" id home_player_livingroom_cf9964e7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:58
 translate spanish home_player_livingroom_125f8002:
 
     # player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} ! Je te promets de tout te raconter, mais... pas maintenant." id home_player_livingroom_125f8002
-    player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}! Prometo contarte...pero mas tarde no ahora." id home_player_livingroom_125f8002
+    player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}! prometo contarte… pero más tarde, no por ahora." id home_player_livingroom_125f8002
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:59
 translate spanish home_player_livingroom_04b76371:
 
     # yasuka happy "C'était un rêve pervers ?! C'est ça ? Bon, si tu as encore taché tes draps, n'oublie pas d'aller toi-même les laver !" id home_player_livingroom_04b76371
-    yasuka happy "Era un sueño sucio, ¿verdad? Bueno, si mojaste tus sabanas de nuevo, ¡No te olvides de lavarlas!" id home_player_livingroom_04b76371
+    yasuka happy "Era un sueño sucio, ¿Verdad? Bueno, si mojaste tus sabanas de nuevo ¡No te olvides de lavarlas!" id home_player_livingroom_04b76371
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:60
 translate spanish home_player_livingroom_ab119cf8:
 
     # player surprised "Quoi ?! Non ce n'est pas... Rien a voir avec ce genre de rêve!" id home_player_livingroom_ab119cf8
-    player surprised "¡¿Que?! No, no fue un sueño humedo..." id home_player_livingroom_ab119cf8
+    player surprised "¡¿Qué?! No, no fue un sueño humedo..." id home_player_livingroom_ab119cf8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:61
 translate spanish home_player_livingroom_46b1901a:
@@ -70,31 +70,31 @@ translate spanish home_player_livingroom_46b1901a:
 translate spanish home_player_livingroom_2c3616ea:
 
     # yasuka shocked "Mieux ?! Et bien, je souhaiterais avoir cette chance..." id home_player_livingroom_2c3616ea
-    yasuka shocked "¡¿Mejor?!, me gustaria tener ese tipo de sueños..." id home_player_livingroom_2c3616ea
+    yasuka shocked "¡¿Mejor?!, me gustaría tener ese tipo de sueños..." id home_player_livingroom_2c3616ea
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:63
 translate spanish home_player_livingroom_d6cdaca2:
 
     # yasuka sad "En ce moment, les miens sont déprimants." id home_player_livingroom_d6cdaca2
-    yasuka sad "los mios se estan volviendo mas depresivos." id home_player_livingroom_d6cdaca2
+    yasuka sad "Los míos se están volviendo más depresivos." id home_player_livingroom_d6cdaca2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:64
 translate spanish home_player_livingroom_0fed46bb:
 
     # player "Tu sais que si quelque chose te tracasse tu peux toujours m'en parler!" id home_player_livingroom_0fed46bb
-    player "Sabes que si algo te esta molestando puede contar conmigo." id home_player_livingroom_0fed46bb
+    player "Sabes que si algo te está molestando puedes contar conmigo." id home_player_livingroom_0fed46bb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:65
 translate spanish home_player_livingroom_49ef0d61:
 
     # yasuka "Oh je te découvre un nouveau caractere, j'aime beaucoup ce nouveau [player_name] mais, il s'agit de problèmes d'adultes et je ne veux pas te préoccuper avec ça!" id home_player_livingroom_49ef0d61
-    yasuka "Oh, ¡Estoy descubriendo un nuevo lado de ti! Me gusta este nuevo {b}{color=#0984e3}[player_name]{/color}{/b}, pero son problemas de adultos y no quiero envolverte en ellos" id home_player_livingroom_49ef0d61
+    yasuka "Oh, ¡Estoy descubriendo un nuevo lado de ti! Me gusta este nuevo {b}{color=#0984e3}[player_name]{/color}{/b}, pero son problemas de adultos y no quiero envolverte en ellos." id home_player_livingroom_49ef0d61
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:66
 translate spanish home_player_livingroom_0b2a5dae:
 
     # player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, avec tout ce que tu as fait pour moi, je veux pouvoir t'aider ! Dis-moi ce qu'il se passe !" id home_player_livingroom_0b2a5dae
-    player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, con todo lo que hiciste por mi, ¡Quiero ser capaz de ayudarte! ¡Dime que sucede!" id home_player_livingroom_0b2a5dae
+    player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, con todo lo que has hecho por mí, ¡Quiero ser capaz de ayudarte! ¡Dime que sucede!" id home_player_livingroom_0b2a5dae
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:67
 translate spanish home_player_livingroom_ae713cd0:
@@ -106,7 +106,7 @@ translate spanish home_player_livingroom_ae713cd0:
 translate spanish home_player_livingroom_1dfe9efb:
 
     # yasuka "Nous sommes encore dans le rouge, et nous ne sommes encore qu'au début du mois..." id home_player_livingroom_1dfe9efb
-    yasuka "Seguimos en rojo y recien empieza el año" id home_player_livingroom_1dfe9efb
+    yasuka "Seguimos en rojo y recién empieza el año" id home_player_livingroom_1dfe9efb
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:69
 translate spanish home_player_livingroom_c24e641c:
@@ -118,19 +118,19 @@ translate spanish home_player_livingroom_c24e641c:
 translate spanish home_player_livingroom_53b3469f:
 
     # player surprised "Un instant, de quelles dettes parles-tu exactement ?" id home_player_livingroom_53b3469f
-    player surprised "Espera, ¿Que deudas?" id home_player_livingroom_53b3469f
+    player surprised "Espera, ¿Qué deudas?" id home_player_livingroom_53b3469f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:71
 translate spanish home_player_livingroom_da6b987f:
 
     # yasuka "Je ne sais pas si c'est judicieux de..." id home_player_livingroom_da6b987f
-    yasuka "No se si deberia..." id home_player_livingroom_da6b987f
+    yasuka "No sé si debería..." id home_player_livingroom_da6b987f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:72
 translate spanish home_player_livingroom_c111572e:
 
     # player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, pour pouvoir aider j'ai besoins de savoir ce qu'il se passe même si c'est difficile !" id home_player_livingroom_c111572e
-    player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, ¡No puedo ayudarte si no se que sucede!" id home_player_livingroom_c111572e
+    player happy "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, ¡No puedo ayudarte si no sé qué pasa!" id home_player_livingroom_c111572e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:73
 translate spanish home_player_livingroom_efcc80f4:
@@ -166,13 +166,13 @@ translate spanish home_player_livingroom_0d896760:
 translate spanish home_player_livingroom_ca23b5c3:
 
     # yasuka depressed "C'est gentil mon chéri, mais ton argent de poche, même économisé sur plusieurs années, ne suffirait pas..." id home_player_livingroom_ca23b5c3
-    yasuka depressed "Eso es dulce, pero incluso si ahorrabas por años, seguiria siendo imposible pagarlas..." id home_player_livingroom_ca23b5c3
+    yasuka depressed "Eso es dulce, pero incluso si ahorrabas por años, seguiría siendo imposible pagarlas..." id home_player_livingroom_ca23b5c3
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:79
 translate spanish home_player_livingroom_a0f720dc:
 
     # player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... Dis-moi juste... De combien a-t-on besoin pour sortir des ennuis ?" id home_player_livingroom_a0f720dc
-    player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, Solo dime...¿Cuanto necesitas?" id home_player_livingroom_a0f720dc
+    player "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}, solo dime... ¿Cuánto necesitas?" id home_player_livingroom_a0f720dc
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:80
 translate spanish home_player_livingroom_ae713cd0_1:
@@ -196,7 +196,7 @@ translate spanish home_player_livingroom_8dc5c85a:
 translate spanish home_player_livingroom_76ba1dec:
 
     # player surprised "Quoi ?!{w} Mais... {w}Comment ?" id home_player_livingroom_76ba1dec
-    player surprised "¡¿Que?!{w} Pero... {w}¿Cuanto?" id home_player_livingroom_76ba1dec
+    player surprised "¡¿Qué?!{w} Pero... {w}¿Cuánto?" id home_player_livingroom_76ba1dec
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:84
 translate spanish home_player_livingroom_3faca6c4:
@@ -208,49 +208,49 @@ translate spanish home_player_livingroom_3faca6c4:
 translate spanish home_player_livingroom_9342aa64:
 
     # yasuka "Avant de s'enfuir avec cette p... nouvelle femme, ton père avait des problèmes d'argent." id home_player_livingroom_9342aa64
-    yasuka "Antes de irse con esa pe- su nueva esposa, tu padre tuvo varios problemas financieros" id home_player_livingroom_9342aa64
+    yasuka "Antes de irse con esa pe- su nueva esposa, tu padre tuvo varios problemas financieros." id home_player_livingroom_9342aa64
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:86
 translate spanish home_player_livingroom_0a4f1966:
 
     # yasuka "Il a pas mal emprunté à des gens... peu recommandables." id home_player_livingroom_0a4f1966
-    yasuka "Tomo prestado de algunas personas de baja reputación" id home_player_livingroom_0a4f1966
+    yasuka "Tomo prestado de algunas personas de dudosa procedencia." id home_player_livingroom_0a4f1966
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:87
 translate spanish home_player_livingroom_a13d5b48:
 
     # yasuka sad "Quand il est parti sans laisser la moindre trace, ces personnes sont remontées jusqu'à moi et m'ont bien faites comprendre qu'il était désormais de ma responsabilité de rembourser sa dette..." id home_player_livingroom_a13d5b48
-    yasuka sad "Cuando se fue sin dejar rastro, ellos nos encontraron y nos dejaron en claro que sus deudas ahora son mi responsabilidad" id home_player_livingroom_a13d5b48
+    yasuka sad "Cuando se fue sin dejar rastro, ellos nos encontraron y nos dejaron en claro que sus deudas ahora eran mi responsabilidad." id home_player_livingroom_a13d5b48
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:88
 translate spanish home_player_livingroom_f7863e92:
 
     # player "Toi ?! Mais pourquoi ?" id home_player_livingroom_f7863e92
-    player "¡¿Tuyas?! Pero ¿Por que?" id home_player_livingroom_f7863e92
+    player "¡¿Tuyas?! Pero ¿Por qué?" id home_player_livingroom_f7863e92
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:89
 translate spanish home_player_livingroom_7aa24a09:
 
     # yasuka moved "...Comme tu n'avais pas d'autre famille et que ton père était un ami de longue date, je t'ai recueilli chez moi..." id home_player_livingroom_7aa24a09
-    yasuka moved "...Como no tienes otra familia y tu padre fue un viejo amigo, te traje a casa" id home_player_livingroom_7aa24a09
+    yasuka moved "...Como no tienes otra familia y tu padre fue un viejo amigo, te traje a casa." id home_player_livingroom_7aa24a09
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:90
 translate spanish home_player_livingroom_41476939:
 
     # yasuka "Et te prendre en charge signifie également prendre en charge les dettes de ton père." id home_player_livingroom_41476939
-    yasuka "Y hacerme cargo de ti tambien significa hacerme cargo de las deudas de tu padre" id home_player_livingroom_41476939
+    yasuka "Y hacerme cargo de ti también significa hacerme cargo de las deudas de tu padre." id home_player_livingroom_41476939
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:96
 translate spanish home_player_livingroom_349c74e9:
 
     # x "Putain mais comment ça se fait que j'ai jamais entendu parler de ça ?!!" id home_player_livingroom_349c74e9
-    x "¿Como nunca escuche sobre esto?" id home_player_livingroom_349c74e9
+    x "¿Cómo nunca escuche sobre esto?" id home_player_livingroom_349c74e9
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:97
 translate spanish home_player_livingroom_ccde9871:
 
     # x "Je comprends mieux pourquoi {color=#fd79a8}{b}[noriko_name]{/b}{/color} me traite de parasite, c'est parce que j'en suis un bordel." id home_player_livingroom_ccde9871
-    x "No me sorprende porque {color=#fd79a8}{b}[noriko_name]{/b}{/color} me llama parasito. Yo soy uno." id home_player_livingroom_ccde9871
+    x "No me sorprende porque {color=#fd79a8}{b}[noriko_name]{/b}{/color} me llama parasito. Si lo soy." id home_player_livingroom_ccde9871
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:98
 translate spanish home_player_livingroom_73486ec0:
@@ -268,13 +268,13 @@ translate spanish home_player_livingroom_84029342:
 translate spanish home_player_livingroom_8f8d46ef:
 
     # player sad "Mais si je..." id home_player_livingroom_8f8d46ef
-    player sad "pero si yo..." id home_player_livingroom_8f8d46ef
+    player sad "Pero si yo..." id home_player_livingroom_8f8d46ef
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:105
 translate spanish home_player_livingroom_56b07a1b:
 
     # yasuka -upset "Ce qui est fait est fait, et je ne regrette pas un seul instant de t'avoir recueillie, d'accord ?" id home_player_livingroom_56b07a1b
-    yasuka -upset "Lo que se hizo esta hecho, y no me lamento de haberte traido a casa, ¿bien?" id home_player_livingroom_56b07a1b
+    yasuka -upset "Lo que se hizo hecho esta, y no me lamento de haberte traído a casa, ¿Okey?" id home_player_livingroom_56b07a1b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:106
 translate spanish home_player_livingroom_3b216443:
@@ -286,7 +286,7 @@ translate spanish home_player_livingroom_3b216443:
 translate spanish home_player_livingroom_e2439cd5:
 
     # player "Je te jure de faire tous mon possible pour nous sortir de cette situation!" id home_player_livingroom_e2439cd5
-    player "Prometo que voy a hacer cualquier cosa que pueda hacer para sacarnos de esta situación." id home_player_livingroom_e2439cd5
+    player "Prometo que voy a hacer cualquier cosa que pueda para sacarnos de esta situación." id home_player_livingroom_e2439cd5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:108
 translate spanish home_player_livingroom_214c2f8d:
@@ -304,37 +304,37 @@ translate spanish home_player_livingroom_a547d896:
 translate spanish home_player_livingroom_62e76816:
 
     # yasuka "Il me reste une dernière possibilité pour rembourser nos dettes... avant qu'on ne nous saisisse la maison..." id home_player_livingroom_62e76816
-    yasuka "Todavia tengo una ultima chance de pagar nuestras deudas... antes de que embarguen la casa..." id home_player_livingroom_62e76816
+    yasuka "Todavía tengo una última chance de pagar nuestras deudas... antes de que embarguen la casa..." id home_player_livingroom_62e76816
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:111
 translate spanish home_player_livingroom_d1fffea7:
 
     # player neutral "Ah ?" id home_player_livingroom_d1fffea7
-    player neutral "¿ah?" id home_player_livingroom_d1fffea7
+    player neutral "¿Ah?" id home_player_livingroom_d1fffea7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:112
 translate spanish home_player_livingroom_a137410f:
 
     # yasuka pouting "Même si l'idée me répugne, c'est la meilleure opportunité que j'ai trouvé." id home_player_livingroom_a137410f
-    yasuka pouting "Incluso si me disgusta,  es la mejor oportunidad que encontre..." id home_player_livingroom_a137410f
+    yasuka pouting "Incluso si me disgusta, es la mejor oportunidad que encontré..." id home_player_livingroom_a137410f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:113
 translate spanish home_player_livingroom_fb28152f:
 
     # yasuka "C'est une proposition d'offre d'emploi pour un job d'hôtesse... {w}Cela devrait être à ma portée même si ce n'est pas ce qu'il y a de mieux." id home_player_livingroom_fb28152f
-    yasuka "Obtuve la oferta de volverme una dama de compañia {w} no es lo mejor, pero paga muy bien…" id home_player_livingroom_fb28152f
+    yasuka "Me ofrecieron volverme una dama de compañía {w} no es lo mejor, pero pagan muy bien…" id home_player_livingroom_fb28152f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:114
 translate spanish home_player_livingroom_889a55a4:
 
     # yasuka -pouting "L'avantage, c'est que plus tu es populaire, plus tu gagnes d'argent..." id home_player_livingroom_889a55a4
-    yasuka -pouting "Mientras mas popular seas, mas dinero haces." id home_player_livingroom_889a55a4
+    yasuka -pouting "Mientras más popular seas, más dinero haces." id home_player_livingroom_889a55a4
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:115
 translate spanish home_player_livingroom_0d3ff208:
 
     # yasuka "Et je suis prête à tout pour sauver notre famille !" id home_player_livingroom_0d3ff208
-    yasuka "Y voy a hacer lo que sea para salvar a nuestra familia" id home_player_livingroom_0d3ff208
+    yasuka "Y voy a hacer lo que sea para salvar a nuestra familia." id home_player_livingroom_0d3ff208
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:116
 translate spanish home_player_livingroom_5555b7fc:
@@ -352,19 +352,19 @@ translate spanish home_player_livingroom_c7581d29:
 translate spanish home_player_livingroom_1f995287:
 
     # yasuka "J'ai juste à me dire qu'il s'agit d'un travail comme un autre et puis..." id home_player_livingroom_1f995287
-    yasuka "Solamente debo decirme a mi misma que es un trabajo como cualquier otro, y entonces...." id home_player_livingroom_1f995287
+    yasuka "Solamente debo decirme a mí misma que es un trabajo como cualquier otro, y entonces...." id home_player_livingroom_1f995287
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:125
 translate spanish home_player_livingroom_069f6a7b:
 
     # yasuka "Nos dettes seront vite remboursées !" id home_player_livingroom_069f6a7b
-    yasuka "¡Nuestras deudas se iran en poco tiempo!" id home_player_livingroom_069f6a7b
+    yasuka "¡Nuestras deudas se irán en poco tiempo!" id home_player_livingroom_069f6a7b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:126
 translate spanish home_player_livingroom_02d76ce6:
 
     # yasuka "Je serais vite très populaire crois-moi. Et d'ici quelques semaines, on vivra dans un château..." id home_player_livingroom_02d76ce6
-    yasuka "Y quizas en unas pocas semanas, ¡sere tan popular que podriamos vivir en un castillo!" id home_player_livingroom_02d76ce6
+    yasuka "Y quizas en unas pocas semanas, ¡Seré tan popular que podríamos vivir en un castillo!" id home_player_livingroom_02d76ce6
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:127
 translate spanish home_player_livingroom_b8dd6761:
@@ -388,25 +388,25 @@ translate spanish home_player_livingroom_87e25920:
 translate spanish home_player_livingroom_bba9737d:
 
     # yasuka sad "...Ca ne m'enchante pas non plus mais ce sera vite remboursé de cette façon..." id home_player_livingroom_bba9737d
-    yasuka sad "Yo tampoco lo disfruto pero es el mejor modo de salir de nuestra situación..." id home_player_livingroom_bba9737d
+    yasuka sad "Yo tampoco lo disfruto, pero es el mejor modo de salir de nuestra situación..." id home_player_livingroom_bba9737d
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:138
 translate spanish home_player_livingroom_0a110496:
 
     # player sad "Oui mais... je veux dire que si ça s'apprend, ça pourrait engendrer un véritable scandale au lycée..." id home_player_livingroom_0a110496
-    player sad "Si, pero... me refiero, a que si esto sale a la luz, podria causar un gran escandalo en la escuela..." id home_player_livingroom_0a110496
+    player sad "Si, pero... me refiero, a que, si esto sale a la luz, podría causar un gran escándalo en la escuela..." id home_player_livingroom_0a110496
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:139
 translate spanish home_player_livingroom_89b2649b:
 
     # player "La vie de {color=#fd79a8}{b}[noriko_name]{/b}{/color} pourrait aussi être impactée." id home_player_livingroom_89b2649b
-    player "la vida de {color=#fd79a8}{b}[noriko_name]{/b}{/color} se veria afectada." id home_player_livingroom_89b2649b
+    player "La vida de {color=#fd79a8}{b}[noriko_name]{/b}{/color} se veria afectada." id home_player_livingroom_89b2649b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:140
 translate spanish home_player_livingroom_9c8bb34f:
 
     # player "Tu sais comment les nouvelles vont vite..." id home_player_livingroom_9c8bb34f
-    player "Ya sabes como de rapido viajan las noticias..." id home_player_livingroom_9c8bb34f
+    player "Ya sabes que las noticias viajan rápido..." id home_player_livingroom_9c8bb34f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:141
 translate spanish home_player_livingroom_7f417f1d:
@@ -418,43 +418,43 @@ translate spanish home_player_livingroom_7f417f1d:
 translate spanish home_player_livingroom_4c6b9926:
 
     # player "Je suis sûr qu'un professeur de l'école ou encore le proviseur ne se gênerait pas pour aller vérifier ça par lui-même..." id home_player_livingroom_4c6b9926
-    player "Estoy seguro de que alguna profesora o el director no tendrian problema en ir a ver por su propia cuenta..." id home_player_livingroom_4c6b9926
+    player "Estoy seguro de que algunos profesores o el director no tendrán problema en ir a ver por su propia cuenta..." id home_player_livingroom_4c6b9926
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:143
 translate spanish home_player_livingroom_9ef6ad7f:
 
     # player "Dès que les gens ont un moyen de pression sur toi, il sera facile de te faire chanter." id home_player_livingroom_9ef6ad7f
-    player "Ni bien la gente pueda aprovecharse de ti, va a ser muy facil chantajearte." id home_player_livingroom_9ef6ad7f
+    player "Ni bien la gente pueda aprovecharse de ti, eso hará muy fácil chantajearte." id home_player_livingroom_9ef6ad7f
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:144
 translate spanish home_player_livingroom_59e5bc5b:
 
     # yasuka "Je le sais bien, mais... comment faire pour l'argent dans ce cas...?" id home_player_livingroom_59e5bc5b
-    yasuka "Se eso, pero...¿Que pasa con el dinero?" id home_player_livingroom_59e5bc5b
+    yasuka "Se eso, pero...¿Qué hay con el dinero?" id home_player_livingroom_59e5bc5b
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:145
 translate spanish home_player_livingroom_3c1b6285:
 
     # player happy "Écoute... Je pense que ça prendra un peu plus de temps, mais j'ai quelques pistes pour un travail prometteur..." id home_player_livingroom_3c1b6285
-    player happy "Podria llevar un poco mas de tiempo, pero yo tengo algunas oportunidades para buenos trabajos" id home_player_livingroom_3c1b6285
+    player happy "Podría llevar un poco más de tiempo, pero yo tengo algunas oportunidades para buenos trabajos" id home_player_livingroom_3c1b6285
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:146
 translate spanish home_player_livingroom_07c71e87:
 
     # player "Tu as passé toutes ces années à t'occuper de moi, laisse-moi te rendre la pareille..." id home_player_livingroom_07c71e87
-    player "Pasaste todos estos años cuidando de mi, dejame devolverte el favor." id home_player_livingroom_07c71e87
+    player "Pasaste todos estos años cuidando de mí, déjame devolverte el favor." id home_player_livingroom_07c71e87
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:147
 translate spanish home_player_livingroom_21525109:
 
     # yasuka moved "Tu es vraiment un ange ! Merci..." id home_player_livingroom_21525109
-    yasuka moved "¡Eres realmente un angel! Gracias..." id home_player_livingroom_21525109
+    yasuka moved "¡Enserio eres un ángel! Gracias..." id home_player_livingroom_21525109
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:148
 translate spanish home_player_livingroom_3a632de7:
 
     # player "Je te l'ai dit, je ferai tout pour nous sortir de cette mauvaise passe. Fais-moi confiance." id home_player_livingroom_3a632de7
-    player "Te lo dije, hare lo que sea para sacarnos de esto. Puedes confiar en mi." id home_player_livingroom_3a632de7
+    player "Te lo dije, hare lo que sea para sacarnos de esto. Puedes confiar en mí." id home_player_livingroom_3a632de7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:154
 translate spanish home_player_livingroom_7b38df2e:
@@ -472,13 +472,13 @@ translate spanish home_player_livingroom_d98c38a6:
 translate spanish home_player_livingroom_c41104d2:
 
     # yasuka happy "Je te l'ai déjà dit, les hentai te montent trop au cerveau..." id home_player_livingroom_c41104d2
-    yasuka happy "Haz estado viendo mucho hentai..." id home_player_livingroom_c41104d2
+    yasuka happy "Has estado viendo mucho hentai..." id home_player_livingroom_c41104d2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:157
 translate spanish home_player_livingroom_e19221af:
 
     # yasuka "Que des fantasmes... Tss... J'ai élevé un vrai pervers." id home_player_livingroom_e19221af
-    yasuka "Solo en fantasias...tsk... crie a un verdadero pervertido." id home_player_livingroom_e19221af
+    yasuka "Solo pasa en fantasías...Tsk... crie a un verdadero pervertido." id home_player_livingroom_e19221af
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:158
 translate spanish home_player_livingroom_14437795:
@@ -490,13 +490,13 @@ translate spanish home_player_livingroom_14437795:
 translate spanish home_player_livingroom_b620894e:
 
     # yasuka neutral "Je tiens simplement compagnie à des hommes d'affaires et je les incite juste à consommer tout en les écoutant parler..." id home_player_livingroom_b620894e
-    yasuka neutral "Solo me siento con hombres y escucho mientras hablan y beben" id home_player_livingroom_b620894e
+    yasuka neutral "Solo tengo que sentarme con hombres y escucharlos hablar mientras beben." id home_player_livingroom_b620894e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:160
 translate spanish home_player_livingroom_f8ea880a:
 
     # yasuka "Il se passe quoi dans la tête des ados ?" id home_player_livingroom_f8ea880a
-    yasuka "¿Que pasa con la mente de los adolescentes?" id home_player_livingroom_f8ea880a
+    yasuka "¿Qué pasa con la mente de los adolescentes?" id home_player_livingroom_f8ea880a
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:161
 translate spanish home_player_livingroom_d775bea4:
@@ -514,13 +514,13 @@ translate spanish home_player_livingroom_eabc0b08:
 translate spanish home_player_livingroom_995c921e:
 
     # yasuka "Bonsoir mon cheri, comment s'est passée ta journée...?" id home_player_livingroom_995c921e
-    yasuka "Bienvenido cariño, ¿Como fue tu día?" id home_player_livingroom_995c921e
+    yasuka "Bienvenido cariño, ¿Cómo estuvo tu día?" id home_player_livingroom_995c921e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:186
 translate spanish home_player_livingroom_065572e7:
 
     # player "J'ai connu mieux... je crois {w} et toi comment s'est passé ta premiere journée d'hotesse ?" id home_player_livingroom_065572e7
-    player "Creo que podria haber sido mejor {w}¿Como fue el tuyo? ¿Como fue tu primer dia como mujer de compañia?" id home_player_livingroom_065572e7
+    player "Creo que podría haber sido mejor {w}¿Como fue el tuyo? ¿Cómo fue tu primer día como dama de compañía?" id home_player_livingroom_065572e7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:188
 translate spanish home_player_livingroom_d05134db:
@@ -538,7 +538,7 @@ translate spanish home_player_livingroom_892f73c3:
 translate spanish home_player_livingroom_9b442420:
 
     # yasuka "La journée était... plus difficile que je ne l'avais prévue..." id home_player_livingroom_9b442420
-    yasuka "Fue...mas dificil de lo que me esperaba..." id home_player_livingroom_9b442420
+    yasuka "Fue...más difícil de lo que me esperaba..." id home_player_livingroom_9b442420
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:191
 translate spanish home_player_livingroom_987b7c7c:
@@ -550,19 +550,19 @@ translate spanish home_player_livingroom_987b7c7c:
 translate spanish home_player_livingroom_662473f5:
 
     # player sad "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} cette idée n'était peut etre pas aussi bonne que prévue." id home_player_livingroom_662473f5
-    player sad "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} Quizas esto no sea una buena idea despues de todo…" id home_player_livingroom_662473f5
+    player sad "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} Quizas esto no sea una buena idea después de todo…" id home_player_livingroom_662473f5
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:198
 translate spanish home_player_livingroom_06e8b429:
 
     # yasuka "Je le sais bien mais je ne vais pas abandonner à la premiere difficulté..." id home_player_livingroom_06e8b429
-    yasuka "Lo se pero no puedo rendirme al primer indicio de problemas" id home_player_livingroom_06e8b429
+    yasuka "Lo sé, pero no puedo rendirme al primer indicio de problemas" id home_player_livingroom_06e8b429
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:199
 translate spanish home_player_livingroom_bba90700:
 
     # yasuka upset "Je ne pensais juste pas que les hommes pouvaient avoir les mains aussi baladeuse." id home_player_livingroom_bba90700
-    yasuka upset "Solamente no pense que los hombres podrian tener unas manos tan movedizas." id home_player_livingroom_bba90700
+    yasuka upset "Solamente no pensé que los hombres podrían tener unas manos tan escurridizas." id home_player_livingroom_bba90700
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:200
 translate spanish home_player_livingroom_45599642:
@@ -574,25 +574,25 @@ translate spanish home_player_livingroom_45599642:
 translate spanish home_player_livingroom_bff6b6f2:
 
     # yasuka neutral "Mais ça ira !" id home_player_livingroom_bff6b6f2
-    yasuka neutral "Pero, ¡Va a estar bien!" id home_player_livingroom_bff6b6f2
+    yasuka neutral "Pero ¡Va a estar bien!" id home_player_livingroom_bff6b6f2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:202
 translate spanish home_player_livingroom_24af95cf:
 
     # yasuka "J'ai un objectif en tête, je dois rester concentrer dessus..." id home_player_livingroom_24af95cf
-    yasuka "Tengo una meta, tengo que estar comprometida en ella" id home_player_livingroom_24af95cf
+    yasuka "Tengo una meta, tengo que comprometerme con ella" id home_player_livingroom_24af95cf
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:203
 translate spanish home_player_livingroom_3e7ad73c:
 
     # player upset "Mais... Il n'y a pas moyen de le signaler a ton patron ?" id home_player_livingroom_3e7ad73c
-    player upset "Pero... ¿no puedes simplemente reportarlo a tu jefe?" id home_player_livingroom_3e7ad73c
+    player upset "Pero... ¿No puedes simplemente reportarlo a tu jefe?" id home_player_livingroom_3e7ad73c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:204
 translate spanish home_player_livingroom_e5ac9240:
 
     # yasuka happy "...Tu es encore jeune, tu ne connais encore pas très bien le monde du travail." id home_player_livingroom_e5ac9240
-    yasuka happy "Aun eres joven, no sabes como funciona el mundo laboral aun." id home_player_livingroom_e5ac9240
+    yasuka happy "Aun eres joven, no sabes cómo funciona el mundo real." id home_player_livingroom_e5ac9240
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:205
 translate spanish home_player_livingroom_03775ec8:
@@ -622,13 +622,13 @@ translate spanish home_player_livingroom_1a40cf41:
 translate spanish home_player_livingroom_d0dec7c0:
 
     # player happy "...En effet!" id home_player_livingroom_d0dec7c0
-    player happy "..esta bien." id home_player_livingroom_d0dec7c0
+    player happy "..Esta bien." id home_player_livingroom_d0dec7c0
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:210
 translate spanish home_player_livingroom_e87cd746:
 
     # yasuka happy "Alors ne t'inquiete plus pour moi, je suis une grande fille a présent, va donc te coucher il est déja tres tard." id home_player_livingroom_e87cd746
-    yasuka happy "¡Puedo cuidarme sola! Incluso cuide de ti y de Noriko todo este tiempo ¿no? Ahora es muy tarde, asi que mejor vamos a dormir" id home_player_livingroom_e87cd746
+    yasuka happy "¡Puedo cuidarme sola! Incluso cuide de ti y de Noriko todo este tiempo ¿No? Además, ya es tarde, así que mejor vamos a dormir." id home_player_livingroom_e87cd746
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:211
 translate spanish home_player_livingroom_01b802fe:
@@ -640,7 +640,7 @@ translate spanish home_player_livingroom_01b802fe:
 translate spanish home_player_livingroom_ae44d7a9:
 
     # yasuka sad "Tu... tu as peut etre raison." id home_player_livingroom_ae44d7a9
-    yasuka sad "Quizas...quizas tengas razón" id home_player_livingroom_ae44d7a9
+    yasuka sad "Quizas...quizas tengas razón." id home_player_livingroom_ae44d7a9
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:223
 translate spanish home_player_livingroom_fd8be120:
@@ -658,7 +658,7 @@ translate spanish home_player_livingroom_fa12e14b:
 translate spanish home_player_livingroom_e740f9e9:
 
     # player happy "Ne t'en fais pas, tu as déja fais tellement pour moi." id home_player_livingroom_e740f9e9
-    player happy "No te preocupes, ya hiciste demasiado por mi." id home_player_livingroom_e740f9e9
+    player happy "No te preocupes, ya hiciste demasiado por mí." id home_player_livingroom_e740f9e9
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:226
 translate spanish home_player_livingroom_50665a20:
@@ -670,7 +670,7 @@ translate spanish home_player_livingroom_50665a20:
 translate spanish home_player_livingroom_1c7dfcb7:
 
     # yasuka moved "Ooh... Tu trouves quand même le temps de t'inquiéter pour moi malgré la journée que tu as passé." id home_player_livingroom_1c7dfcb7
-    yasuka moved "Te sigues preocupando por mi, incluso con el mal día que tuviste..." id home_player_livingroom_1c7dfcb7
+    yasuka moved "Te sigues preocupando por mí, incluso con el mal día que tuviste..." id home_player_livingroom_1c7dfcb7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:228
 translate spanish home_player_livingroom_a98bc439:
@@ -712,7 +712,7 @@ translate spanish home_player_livingroom_5ef6620f:
 translate spanish home_player_livingroom_ea1dace8:
 
     # yasuka pouting "Une femme n'a pas le droit de se faire belle avant d'aller dormir ?" id home_player_livingroom_ea1dace8
-    yasuka pouting "¿Acaso una mujer no puede vestirse lo que desee en su propio hogar?" id home_player_livingroom_ea1dace8
+    yasuka pouting "¿¿Acaso una mujer no puede vestirse como quiera en su propia casa?" id home_player_livingroom_ea1dace8
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:246
 translate spanish home_player_livingroom_255f7114:
@@ -724,13 +724,13 @@ translate spanish home_player_livingroom_255f7114:
 translate spanish home_player_livingroom_f337f75e:
 
     # yasuka neutral "Raconte moi plutot comment s'est passée ta journée !" id home_player_livingroom_f337f75e
-    yasuka neutral "¿Como fue tu día?" id home_player_livingroom_f337f75e
+    yasuka neutral "¿Cómo estuvo tu día?" id home_player_livingroom_f337f75e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:248
 translate spanish home_player_livingroom_90487ab7:
 
     # yasuka "Tu semblais si motivé ce matin et là..." id home_player_livingroom_90487ab7
-    yasuka "Estabas tan lleno de energia esta mañana, pero ahora..." id home_player_livingroom_90487ab7
+    yasuka "Estabas tan lleno de energía esta mañana, pero ahora..." id home_player_livingroom_90487ab7
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:249
 translate spanish home_player_livingroom_b7280ae7:
@@ -742,13 +742,13 @@ translate spanish home_player_livingroom_b7280ae7:
 translate spanish home_player_livingroom_cd620796:
 
     # player sad "Erf... La journée ne s'est pas aussi bien déroulée que j'espérais." id home_player_livingroom_cd620796
-    player sad "No me fue tan bien como espere..." id home_player_livingroom_cd620796
+    player sad "No me fue tan bien como esperaba..." id home_player_livingroom_cd620796
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:251
 translate spanish home_player_livingroom_829daf16:
 
     # yasuka "Tu veux m'en parler ?" id home_player_livingroom_829daf16
-    yasuka "¿Quieres hablar sobre ellos?" id home_player_livingroom_829daf16
+    yasuka "¿Quieres hablar sobre ello?" id home_player_livingroom_829daf16
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:258
 translate spanish home_player_livingroom_3a994b1b:
@@ -772,49 +772,49 @@ translate spanish home_player_livingroom_1774c8b3:
 translate spanish home_player_livingroom_2353c911:
 
     # player "Disons que ce matin je me suis levé du bon pied." id home_player_livingroom_2353c911
-    player "Digamos que me desperte con el pie derecho esta noche..." id home_player_livingroom_2353c911
+    player "Digamos que me desperté con el pie derecho..." id home_player_livingroom_2353c911
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:270
 translate spanish home_player_livingroom_21f04b8c:
 
     # player "...Et c'est comme si j'avais marché dans la merde à chacun de mes pas." id home_player_livingroom_21f04b8c
-    player "...Y desde que me levante no hice mas que caminar en mierda" id home_player_livingroom_21f04b8c
+    player "...Y desde que me levante no hice más que caminar en mierda." id home_player_livingroom_21f04b8c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:271
 translate spanish home_player_livingroom_65b21889:
 
     # yasuka "C'est... très imagé, mais je comprends très bien." id home_player_livingroom_65b21889
-    yasuka "Eso es... bastante grafico, pero entiendo a lo que te refieres." id home_player_livingroom_65b21889
+    yasuka "Eso es... bastante gráfico, pero entiendo a lo que te refieres." id home_player_livingroom_65b21889
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:273
 translate spanish home_player_livingroom_0d19ba7e:
 
     # player "Une petite baisse de motivation, rien de plus, ça va aller." id home_player_livingroom_0d19ba7e
-    player "Fue solo un retraso. Estare bien." id home_player_livingroom_0d19ba7e
+    player "Fue solo un retraso. estaré bien." id home_player_livingroom_0d19ba7e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:274
 translate spanish home_player_livingroom_46adedff:
 
     # yasuka "Ne te laisse pas abattre par des petits détails sans importances." id home_player_livingroom_46adedff
-    yasuka "Exacto. No puedes dejar que un dia arruine tu semana" id home_player_livingroom_46adedff
+    yasuka "Exacto. No puedes dejar que un día arruine tu semana" id home_player_livingroom_46adedff
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:275
 translate spanish home_player_livingroom_8541e47c:
 
     # yasuka "Tu veux que je vienne dormir avec toi comme avant?" id home_player_livingroom_8541e47c
-    yasuka "¿Quieres que duerma contigo como solia hacerlo?" id home_player_livingroom_8541e47c
+    yasuka "¿Quieres que duerma contigo como solía hacerlo?" id home_player_livingroom_8541e47c
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:276
 translate spanish home_player_livingroom_9bc71647:
 
     # yasuka "Si tu veux, je te câlinerai jusqu'à ce que tu trouves le sommeil." id home_player_livingroom_9bc71647
-    yasuka "Podria abrazarte hasta que te duermas" id home_player_livingroom_9bc71647
+    yasuka "Podría abrazarte hasta que te duermas" id home_player_livingroom_9bc71647
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:277
 translate spanish home_player_livingroom_6be75c01:
 
     # yasuka "Tu dormais toujours comme un bébé après ça..." id home_player_livingroom_6be75c01
-    yasuka "Siempre dormias como un bebe despues de eso..." id home_player_livingroom_6be75c01
+    yasuka "Siempre dormías como un bebe después de eso..." id home_player_livingroom_6be75c01
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:284
 translate spanish home_player_livingroom_4e0f3b17:
@@ -850,7 +850,7 @@ translate spanish home_player_livingroom_60476345:
 translate spanish home_player_livingroom_a2b92ccf:
 
     # x "J'ai bien fait de lui déconseiller ce travail dont elle m'a parlé." id home_player_livingroom_a2b92ccf
-    x "Estoy agradecido de haberla sacado de ese trabajo de mujer de compañia" id home_player_livingroom_a2b92ccf
+    x "Estoy agradecido de haberla sacado de ese trabajo como dama de compañía" id home_player_livingroom_a2b92ccf
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:309
 translate spanish home_player_livingroom_7ae22fa8:
@@ -874,13 +874,13 @@ translate spanish home_player_livingroom_676ee2b1:
 translate spanish home_player_livingroom_647538d9:
 
     # x "Vivement l'internet par implant neuronal..." id home_player_livingroom_647538d9
-    x "No puedo esperar por las implantaciones de señales de internet neuronal" id home_player_livingroom_647538d9
+    x "No puedo esperar por las implantaciones de señales con internet neuronal" id home_player_livingroom_647538d9
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:338
 translate spanish home_player_livingroom_dc70227e:
 
     # x "Si j'en crois mon rêve ça devrait plus trop tarder..." id home_player_livingroom_dc70227e
-    x "Si creyese en mis sueños, no deberia de estar tan lejos en el futuro..." id home_player_livingroom_dc70227e
+    x "Si creyese en mis sueños, no debería de estar tan alejado del futuro..." id home_player_livingroom_dc70227e
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:340
 translate spanish home_player_livingroom_69e0442f:
@@ -892,13 +892,13 @@ translate spanish home_player_livingroom_69e0442f:
 translate spanish home_player_livingroom_326bade1:
 
     # x "Ah ! Je sens déjà son taux de sel grimper en flèche ! C'est le moment d'en profiter pour se faufiler discrètement dans sa chambre." id home_player_livingroom_326bade1
-    x "¡Ella debe de estar cerca de un buen GAMER MOMENT! Vamos a esa habitacion a conseguir mi mp3" id home_player_livingroom_326bade1
+    x "¡Ella debe de estar cerca de un buen GAMER MOMENT! Vamos a esa habitación a conseguir mi mp3" id home_player_livingroom_326bade1
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:347
 translate spanish home_player_livingroom_26b72fa2:
 
     # noriko "Putain de box de merde, toujours à planter quand il ne faut pas !" id home_player_livingroom_26b72fa2
-    noriko "Maldito router, siempre crasheandote cuando consigo una partida decente" id home_player_livingroom_26b72fa2
+    noriko "Maldito router, siempre crasheandose cuando consigo una partida decentee" id home_player_livingroom_26b72fa2
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:348
 translate spanish home_player_livingroom_082170eb:
@@ -916,7 +916,7 @@ translate spanish home_player_livingroom_66940478:
 translate spanish home_player_livingroom_38595c21:
 
     # x "Même dans mon rêve, je n'ai jamais pu poser un pied dans cette chambre..." id home_player_livingroom_38595c21
-    x "No debi de haber intentado esto ni en mis sueños mas salvajes..." id home_player_livingroom_38595c21
+    x "No debí de haber intentado esto ni en mis sueños más salvajes..." id home_player_livingroom_38595c21
 
 # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:362
 translate spanish home_player_livingroom_12e3c27b:
@@ -928,11 +928,11 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:43
     old "Soyez un bon garçon, c'est le plus \nimportant!"
-    new "¡Se un buen chico es lo unico que \nimporta!"
-
+    new "¡Se un buen chico es lo único que \nimporta!"
+ 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:44
     old "Dirigez vous vers le {color=#FFFF00}{b}parc{/b}{/color} pour aller\ncourir."
-    new "Ve al {color=#FFFF00}{b}parque{/b}{/color} y ve a \ncorrer."
+    new "Ve al {color=#FFFF00}{b}parque{/b}{/color} a \ncorrer."
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:117
     old "C'est probablement une bonne idée en effet!"
@@ -944,7 +944,7 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:117
     old "Euh... c'est pas un genre de métier sexuel ?"
-    new "Uh...¿no es eso una especie de profesión sexual?"
+    new "Uh... ¿No es eso una especie de profesión sexual?"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:172
     old "Demain ça ira mieux, j'espère..."
@@ -952,15 +952,15 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:173
     old "Il faut absolument que je me trouve\nun travail. Je dois aider {color=#a29bfe}{b}%s{/b}{/color}."
-    new "Definitivamente tengo que encontrarme\nun trabajo. I must help {color=#a29bfe}{b}%s{/b}{/color} "
+    new "Definitivamente tengo que encontrarme\nun trabajo. Debo ayudar {color=#a29bfe}{b}%s{/b}{/color} "
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:193
     old "Tu n'as pas a t'infliger ça tu sais..."
-    new "Es el primer dia, sera mejor mañana."
+    new "Es el primer día, mañana será mejor."
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:193
     old "Il est encore temps de changer d'avis."
-    new "Todavia hay tiempo para cambiar tú mente"
+    new "Todavía hay tiempo para cambiar tú mentalidad"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:252
     old "Je préfère aller me coucher..."
@@ -968,7 +968,7 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:252
     old "Si tu veux..."
-    new "Si asi lo deseas..."
+    new "Si eso deseas..."
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:278
     old "Non, je crois que j'ai passé l'âge, mais c'est gentil !"
@@ -976,11 +976,11 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:278
     old "Euh... je suis adulte à présent, ça va être un peu bizarre..."
-    new "Uh...me refiero a que soy un adulto ahora. Eso seria un poco extraño, ¿No crees?"
+    new "Uh...me refiero a que ya soy un adulto. Eso sería un poco extraño, ¿No crees?"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:278
     old "C'est pour te faire plaisir alors !"
-    new "Bueno, si esto es lo que quieres ¿Como podria rechazarlo?"
+    new "Bueno, si eso es lo que quieres ¿Cómo podría rechazarlo?"
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:323
     old "Couper le wifi"
@@ -988,5 +988,5 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_livingroom.rpy:331
     old "Fouiller la chambre de {color=#fd79a8}{b}%s{/b}{/color}\n et retrouver le lecteur MP3."
-    new "Buscar en la habitacion de {color=#fd79a8}{b}%s{/b}{/color}\ny encuentra el mp3"
+    new "Busca en la habitación de {color=#fd79a8}{b}%s{/b}{/color}\ny encuentra el mp3"
 

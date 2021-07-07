@@ -20,11 +20,11 @@ translate spanish strings:
 
     # game/scripts/fondations/cheat.rpy:64
     old "Défaut"
-    new "Default"
+    new "Por defecto"
 
     # game/scripts/fondations/cheat.rpy:79
     old "Qu'elle tenue [noriko_name] doit elle porter?"
-    new "¿Qué debería vestir [yasuka_name]?"
+    new "¿Qué debería vestir [noriko_name]?"
 
     # game/scripts/fondations/cheat.rpy:82
     old "Pyjama"
@@ -32,5 +32,5 @@ translate spanish strings:
 
     # game/scripts/fondations/cheat.rpy:106
     old "Qu'elle tenue [chiaki_name] doit elle porter?"
-    new ""
+    new "¿Qué debería vestir [chiaki name]?"
 

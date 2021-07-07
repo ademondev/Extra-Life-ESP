@@ -4,7 +4,7 @@
 translate spanish sleep_53c814c7:
 
     # player "Allez j'ai du pain sur la planche!"
-    player "Vamos, ¡tengo trabajo que hacer!"
+    player "Vamos, ¡Tengo trabajo que hacer!"
 
 translate spanish strings:
 
@@ -14,7 +14,7 @@ translate spanish strings:
 
     # game/scripts/story/action/sleep.rpy:5
     old "Faire une sieste"
-    new "Dormir una siesta"
+    new "Tomar una siesta"
 
     # game/scripts/story/action/sleep.rpy:5
     old "S'en aller"

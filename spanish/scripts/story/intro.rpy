@@ -4,25 +4,25 @@
 translate spanish intro_90fcefcc:
 
     # x "Je ne sais plus à quel moment les choses sont devenues incontrôlables." id intro_90fcefcc
-    x "¿Como termino asi?" id intro_90fcefcc
+    x "¿Cómo termino así?" id intro_90fcefcc
 
 # game/scripts/story/intro.rpy:15
 translate spanish intro_3bb13317:
 
     # x "Mon corps aujourd'hui n'est plus qu'une prison de chair." id intro_3bb13317
-    x "Hoy, mi cuerpo es una prision de carne y hueso" id intro_3bb13317
+    x "Hoy, mi cuerpo es una prisión de carne y hueso..." id intro_3bb13317
 
 # game/scripts/story/intro.rpy:16
 translate spanish intro_cb62efe6:
 
     # x "Ma faible constitution,{w} les séjours à l'hôpital à répétition,{w} la maladie,{w} la solitude..." id intro_cb62efe6
-    x "Debil,{w} Hospitalizado repetidas veces,{w} enfermo,{w} solitario..." id intro_cb62efe6
+    x "Débil,{w} Hospitalizado repetidas veces,{w} enfermo,{w} solitario..." id intro_cb62efe6
 
 # game/scripts/story/intro.rpy:17
 translate spanish intro_0ada2bb6:
 
     # x "J'ai toujours été le souffre-douleur de service." id intro_0ada2bb6
-    x "Siempre fui discriminado" id intro_0ada2bb6
+    x "Siempre fui discriminado." id intro_0ada2bb6
 
 # game/scripts/story/intro.rpy:18
 translate spanish intro_233de029:
@@ -46,7 +46,7 @@ translate spanish intro_8cb9c58e:
 translate spanish intro_0a865c4d:
 
     # x "Je n'ai jamais voulu de cette vie !" id intro_0a865c4d
-    x "¡Nunca quise una vida asi!" id intro_0a865c4d
+    x "¡Nunca quise una vida así!" id intro_0a865c4d
 
 # game/scripts/story/intro.rpy:23
 translate spanish intro_562bbe14:
@@ -64,25 +64,25 @@ translate spanish intro_3f5da8bf:
 translate spanish intro_bf9b219b:
 
     # x "Personne ne me regrettera..." id intro_bf9b219b
-    x "Nadie me va a recordar" id intro_bf9b219b
+    x "Nadie me recordara." id intro_bf9b219b
 
 # game/scripts/story/intro.rpy:26
 translate spanish intro_a2840a4c:
 
     # x "S'il vous plait... Que quelqu'un m'aide..." id intro_a2840a4c
-    x "por favor... alguien...ayudenme" id intro_a2840a4c
+    x "Por favor... alguien...ayúdenme" id intro_a2840a4c
 
 # game/scripts/story/intro.rpy:27
 translate spanish intro_eda20439:
 
     # x "N'importe qui... Dieu... Satan... Peu importe!" id intro_eda20439
-    x "Dios, Lucifer...alguien.." id intro_eda20439
+    x "¡Dios, Lucifer...! ¡Quien sea!..." id intro_eda20439
 
 # game/scripts/story/intro.rpy:28
 translate spanish intro_9c78c287:
 
     # x "Je ne veux pas partir comme ça..." id intro_9c78c287
-    x "No quiero morir asi" id intro_9c78c287
+    x "No quiero morir así..." id intro_9c78c287
 
 # game/scripts/story/intro.rpy:30
 translate spanish intro_a49290a7:
@@ -100,7 +100,7 @@ translate spanish intro_19efcd11:
 translate spanish intro_a6ea1d5e:
 
     # x "Que...?!" id intro_a6ea1d5e
-    x "¿Que?..." id intro_a6ea1d5e
+    x "¿Eh?..." id intro_a6ea1d5e
 
 # game/scripts/story/intro.rpy:35
 translate spanish intro_a0515f23:
@@ -118,13 +118,13 @@ translate spanish intro_eb611788:
 translate spanish intro_df734961:
 
     # x "Je suis vraiment revenu d'entre les morts ?" id intro_df734961
-    x "¿Acaso volvi?" id intro_df734961
+    x "¿Acaso volví?" id intro_df734961
 
 # game/scripts/story/intro.rpy:40
 translate spanish intro_c88c9ee8:
 
     # x "Tout ça n'était finalement qu'un chauchemar ?" id intro_c88c9ee8
-    x "Una segunda oportunidad..." id intro_c88c9ee8
+    x "Una... ¿Segunda oportunidad?..." id intro_c88c9ee8
 
 # game/scripts/story/intro.rpy:41
 translate spanish intro_27c94c37:

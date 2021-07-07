@@ -4,25 +4,25 @@
 translate spanish home_player_corridor_f133bbfb:
 
     # noriko "Non mais ça va pas de hurler comme ça dès le matin ?!" id home_player_corridor_f133bbfb
-    noriko "Hey, ¡¿Que mierda te pasa que estas gritando asi en la manaña?!" id home_player_corridor_f133bbfb
+    noriko "Hey, ¡¿Que mierda te pasa para que estés gritando así en la mañana?!" id home_player_corridor_f133bbfb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:44
 translate spanish home_player_corridor_11d3ac2a:
 
     # noriko "Y'en a marre, quand est ce que tu te comportera comme un mec ?" id home_player_corridor_11d3ac2a
-    noriko "Tan irritante... ¿Cuando te vas a volver un adulto?" id home_player_corridor_11d3ac2a
+    noriko "Que irritante... ¿Cuándo te volverás un adulto?" id home_player_corridor_11d3ac2a
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:45
 translate spanish home_player_corridor_23584010:
 
     # noriko "T'es vraiment qu'un gamin !" id home_player_corridor_23584010
-    noriko "¡Me das verguenza!" id home_player_corridor_23584010
+    noriko "¡Me das vergüenza!" id home_player_corridor_23584010
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:46
 translate spanish home_player_corridor_35288d53:
 
     # player upset "Oula doucement... M'agresse pas dès le matin comme ça je..." id home_player_corridor_35288d53
-    player upset "Whoa ¡Calmate! No me grites asi en medio de la maña-" id home_player_corridor_35288d53
+    player upset "Whoa ¡Cálmate! No me grites así en medio de la maña-" id home_player_corridor_35288d53
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:47
 translate spanish home_player_corridor_864c46c2:
@@ -34,13 +34,13 @@ translate spanish home_player_corridor_864c46c2:
 translate spanish home_player_corridor_f5d633d9:
 
     # noriko -furious "J'en peux plus de toi et de tes conneries, t'es qu'un foutu parasite, quand est ce que tu te barre d'ici ?!" id home_player_corridor_f5d633d9
-    noriko -furious "Eres un parasito...tendriamos que haberte mandado lejos hace mucho tiempo" id home_player_corridor_f5d633d9
+    noriko -furious "Eres un parasito... ¡Tuvimos que haberte echado hace mucho tiempo!" id home_player_corridor_f5d633d9
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:49
 translate spanish home_player_corridor_78e798c2:
 
     # player sad "Quoi ?! Mais je..." id home_player_corridor_78e798c2
-    player sad "¿¡Que?! Pero yo..." id home_player_corridor_78e798c2
+    player sad "¿¡Qué?! Pero yo..." id home_player_corridor_78e798c2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:50
 translate spanish home_player_corridor_71d02d97:
@@ -64,7 +64,7 @@ translate spanish home_player_corridor_aa884729:
 translate spanish home_player_corridor_89778dcc:
 
     # x "J'avais totalement oublié son existence." id home_player_corridor_89778dcc
-    x "Me habia olvidado completamente de ella." id home_player_corridor_89778dcc
+    x "Me había olvidado completamente de ella." id home_player_corridor_89778dcc
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:64
 translate spanish home_player_corridor_3ab3c167:
@@ -76,31 +76,31 @@ translate spanish home_player_corridor_3ab3c167:
 translate spanish home_player_corridor_8ed9d900:
 
     # x "Elle a toujours été ultra-violente avec moi, j'ai essayé de savoir pourquoi elle m'en voulait tellement mais..." id home_player_corridor_8ed9d900
-    x "Siempre fue tan violenta conmigo, intente el saber porque pero..." id home_player_corridor_8ed9d900
+    x "Siempre fue tan violenta conmigo, incluso trate de saber porque, pero…" id home_player_corridor_8ed9d900
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:66
 translate spanish home_player_corridor_0b052899:
 
     # x "Elle m'a toujours envoyé chié." id home_player_corridor_0b052899
-    x "Siempre me mando a la mierda..." id home_player_corridor_0b052899
+    x "Siempre me mandaba a la mierda..." id home_player_corridor_0b052899
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:67
 translate spanish home_player_corridor_e49418ab:
 
     # x "Si je me souviens bien, elle va quitter la maison en volant le peu d'argent qu'il restera à {color=#a29bfe}{b}[yasuka_name]{/b}{/color} pour s'enfuir avec une bande de racailles." id home_player_corridor_e49418ab
-    x "Es verdad... Ella se ira de la casa, se llevara el poco dinero que {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dejó, para darle todo a unos inutiles." id home_player_corridor_e49418ab
+    x "Es verdad... Ella se ira de la casa, se llevara el poco dinero que {color=#a29bfe}{b}[yasuka_name]{/b}{/color} dejó, para dárselo a unos inútiles." id home_player_corridor_e49418ab
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:68
 translate spanish home_player_corridor_7199d067:
 
     # x "Et on va la retrouver noyée dans le canal peu de temps après sa fugue, son corps totalement souillé." id home_player_corridor_7199d067
-    x "La van a encontrar ahogada en el canal unos dias despues..." id home_player_corridor_7199d067
+    x "La encontraron ahogada en el canal unos días después..." id home_player_corridor_7199d067
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:69
 translate spanish home_player_corridor_9cd593bd:
 
     # x "Ça va briser {color=#a29bfe}{b}[yasuka_name]{/b}{/color}. Elle ne pourra jamais remonter la pente après ça..." id home_player_corridor_9cd593bd
-    x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... se rompio despues de eso. No se pudo recuperar." id home_player_corridor_9cd593bd
+    x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color}... se quebró después de eso. Nunca pudo recuperarse." id home_player_corridor_9cd593bd
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:78
 translate spanish home_player_corridor_897eca85:
@@ -112,7 +112,7 @@ translate spanish home_player_corridor_897eca85:
 translate spanish home_player_corridor_43ea3f38:
 
     # noriko disgusted "Pffff, et en plus tu te parle a toi même maintenant... Tellement pathétique !" id home_player_corridor_43ea3f38
-    noriko disgusted "Pffff, y ahora estas hablandote a ti mismo... ¡Que patetico!" id home_player_corridor_43ea3f38
+    noriko disgusted "Pffff, y ahora estas hablándote a ti mismo... ¡Que patético!" id home_player_corridor_43ea3f38
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:82
 translate spanish home_player_corridor_dd978a3f:
@@ -124,25 +124,25 @@ translate spanish home_player_corridor_dd978a3f:
 translate spanish home_player_corridor_96d9d3a2:
 
     # noriko "Rien que de voir ta... tête je..." id home_player_corridor_96d9d3a2
-    noriko "De solo mirarte a la cara, yo..." id home_player_corridor_96d9d3a2
+    noriko "De solo mirar tú cara, yo..." id home_player_corridor_96d9d3a2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:84
 translate spanish home_player_corridor_f94ec740:
 
     # noriko "Beuhh je sent que ça viens..." id home_player_corridor_f94ec740
-    noriko "Oh dios, ahi viene..." id home_player_corridor_f94ec740
+    noriko "Oh por dios, ahí viene..." id home_player_corridor_f94ec740
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:87
 translate spanish home_player_corridor_bc4eeee4:
 
     # player sad "...ou pas." id home_player_corridor_bc4eeee4
-    player sad "...o no." id home_player_corridor_bc4eeee4
+    player sad "...O no" id home_player_corridor_bc4eeee4
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:103
 translate spanish home_player_corridor_43ea5588:
 
     # noriko "Ta passé une mauvaise journée ?" id home_player_corridor_43ea5588
-    noriko "Aww, ¿Que paso? ¿Tuviste un mal día?" id home_player_corridor_43ea5588
+    noriko "Aww, ¿Qué pasó? ¿Tuviste un mal día?" id home_player_corridor_43ea5588
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:104
 translate spanish home_player_corridor_b9ae232a:
@@ -154,7 +154,7 @@ translate spanish home_player_corridor_b9ae232a:
 translate spanish home_player_corridor_ffd6a680:
 
     # noriko "J'espere que ça sera pire encore demain !" id home_player_corridor_ffd6a680
-    noriko "¡Espero que mañana sea todavia peor!" id home_player_corridor_ffd6a680
+    noriko "¡Espero que mañana sea todavía peor!" id home_player_corridor_ffd6a680
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:107
 translate spanish home_player_corridor_a9ff32c8:
@@ -172,19 +172,19 @@ translate spanish home_player_corridor_70ab88be:
 translate spanish home_player_corridor_9ea5738d:
 
     # noriko "Et maintenant tu vas faire quoi ? Tu vas aller te branler ?" id home_player_corridor_9ea5738d
-    noriko "¿Vas a tocar tu pequeño pene ahora?" id home_player_corridor_9ea5738d
+    noriko "¿Te tocaras tu pequeño pene ahora?" id home_player_corridor_9ea5738d
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:110
 translate spanish home_player_corridor_eab9621e:
 
     # noriko "Tu crois que t'auras assez de mouchoirs ?" id home_player_corridor_eab9621e
-    noriko "¡No te quedes sin papel!" id home_player_corridor_eab9621e
+    noriko "¡No te vayas a quedar sin papel!" id home_player_corridor_eab9621e
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:111
 translate spanish home_player_corridor_03630599:
 
     # noriko "T'en aura jamais assez pour éponger ta connerie de toute façon !" id home_player_corridor_03630599
-    noriko "¡No queremos que arruines nuestra casa mas de lo que ya la arruinaste!" id home_player_corridor_03630599
+    noriko "¡No queremos que arruines nuestra casa más de lo que ya la arruinaste!" id home_player_corridor_03630599
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:112
 translate spanish home_player_corridor_dd978a3f_1:
@@ -214,13 +214,13 @@ translate spanish home_player_corridor_2445dbcc:
 translate spanish home_player_corridor_05e691eb:
 
     # noriko "...Que...?!" id home_player_corridor_05e691eb
-    noriko "...¡¿Que...?!" id home_player_corridor_05e691eb
+    noriko "...¡¿Qué...?!" id home_player_corridor_05e691eb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:129
 translate spanish home_player_corridor_1a03b0cb:
 
     # player "Qu'est ce que je t'ai dit {color=#fd79a8}{b}[noriko_name]{/b}{/color}..?" id home_player_corridor_1a03b0cb
-    player "¿Que te dije esta mañana, {color=#fd79a8}{b}[noriko_name]{/b}{/color}..?" id home_player_corridor_1a03b0cb
+    player "¿Qué te dije esta mañana {color=#fd79a8}{b}[noriko_name]{/b}{/color}..?" id home_player_corridor_1a03b0cb
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:130
 translate spanish home_player_corridor_c2cc79f2:
@@ -244,7 +244,7 @@ translate spanish home_player_corridor_8958d958:
 translate spanish home_player_corridor_e447f6d9:
 
     # noriko rougir cute "euh..." id home_player_corridor_e447f6d9
-    noriko rougir cute "¿uh?..." id home_player_corridor_e447f6d9
+    noriko rougir cute "¿Uh?..." id home_player_corridor_e447f6d9
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:141
 translate spanish home_player_corridor_62854c6d:
@@ -256,7 +256,7 @@ translate spanish home_player_corridor_62854c6d:
 translate spanish home_player_corridor_847f88b0:
 
     # noriko "Si...si... j'y allais justement..." id home_player_corridor_847f88b0
-    noriko "Si...si...estaba por hacer eso..." id home_player_corridor_847f88b0
+    noriko "Si...si...estaba por hacerlo…" id home_player_corridor_847f88b0
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:143
 translate spanish home_player_corridor_3b51dcf3:
@@ -286,7 +286,7 @@ translate spanish home_player_corridor_a0df62e4:
 translate spanish home_player_corridor_3b81fd04:
 
     # x "Ca en valait la peine !" id home_player_corridor_3b81fd04
-    x "Valio la pena" id home_player_corridor_3b81fd04
+    x "Valió la pena" id home_player_corridor_3b81fd04
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:154
 translate spanish home_player_corridor_3989c296:
@@ -304,19 +304,19 @@ translate spanish home_player_corridor_0c3ec198:
 translate spanish home_player_corridor_82150078:
 
     # x "Si je rentre ici sans etre préparer elle va encore trouver le moyen de me faire chanter..." id home_player_corridor_82150078
-    x "En mi sueño ella me acuso de violarla y se fue de casa" id home_player_corridor_82150078
+    x "En mi sueño ella me acusó de violarla y por eso se fue de casa..." id home_player_corridor_82150078
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:169
 translate spanish home_player_corridor_2075f795:
 
     # x "Dans mon rêve, elle m'avait accusé de l'avoir violé et avait quitter la maison peu de temps après." id home_player_corridor_2075f795
-    x "Despues de eso, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} y yo dejamos de hablar, y tuve que irme tambien..." id home_player_corridor_2075f795
+    x "Después de eso, {color=#a29bfe}{b}[yasuka_name]{/b}{/color} y yo dejamos de hablar, y tuve que irme también..." id home_player_corridor_2075f795
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:170
 translate spanish home_player_corridor_c9edb325:
 
     # x "{color=#a29bfe}{b}[yasuka_name]{/b}{/color} ne m'avait plus jamais adressée la parole, j'avais du quitter la maison par la suite." id home_player_corridor_c9edb325
-    x "Si no vuelvo preparado ella podria hacerlo de nuevo" id home_player_corridor_c9edb325
+    x "Si no estoy preparado ella podría hacerlo de nuevo." id home_player_corridor_c9edb325
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:171
 translate spanish home_player_corridor_a3deec1e:
@@ -340,13 +340,13 @@ translate spanish home_player_corridor_c92622f5:
 translate spanish home_player_corridor_d756bd48:
 
     # x "Putain pourquoi j'ai jamais fais ça plus tôt ?!" id home_player_corridor_d756bd48
-    x "¿Por que mierda no hice esto antes?" id home_player_corridor_d756bd48
+    x "¿Por qué demonios no hice esto antes?" id home_player_corridor_d756bd48
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:204
 translate spanish home_player_corridor_20019500:
 
     # x "Ca fais tellement de bien..." id home_player_corridor_20019500
-    x "Se sintio tan bien..." id home_player_corridor_20019500
+    x "Se sintió tan bien..." id home_player_corridor_20019500
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:212
 translate spanish home_player_corridor_af6010dc:
@@ -364,25 +364,25 @@ translate spanish home_player_corridor_f5542d4e:
 translate spanish home_player_corridor_6c6c6c0d:
 
     # x "Bordel! Ce qui vient de se passer..." id home_player_corridor_6c6c6c0d
-    x "¿Que diablos acaba de pasar?..." id home_player_corridor_6c6c6c0d
+    x "¿Qué diablos acaba de pasar?..." id home_player_corridor_6c6c6c0d
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:236
 translate spanish home_player_corridor_0bbf19c0:
 
     # x "Je n'aurais jamais pensé que {color=#fd79a8}{b}[noriko_name]{/b}{/color} ferait un truc aussi audacieux." id home_player_corridor_0bbf19c0
-    x "Nunca pense que {color=#fd79a8}{b}[noriko_name]{/b}{/color} simplemente...haria eso." id home_player_corridor_0bbf19c0
+    x "Nunca pense que {color=#fd79a8}{b}[noriko_name]{/b}{/color} simplemente...haría eso." id home_player_corridor_0bbf19c0
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:237
 translate spanish home_player_corridor_37774e33:
 
     # x "Peut etre devrais je profiter un petit temps de cette situation, je serais curieux de voir ou tout ça va me mener." id home_player_corridor_37774e33
-    x "Me pregunto que mas podra mostrarme." id home_player_corridor_37774e33
+    x "Me pregunto que más podría mostrarme." id home_player_corridor_37774e33
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:238
 translate spanish home_player_corridor_0f41cc13:
 
     # x "...{w}J'aurais peut etre du les toucher au final." id home_player_corridor_0f41cc13
-    x "...{w}Quizas deberia de haberlas tocado..." id home_player_corridor_0f41cc13
+    x "...{w}Quizas debería haberlas tocado..." id home_player_corridor_0f41cc13
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:239
 translate spanish home_player_corridor_a21e86ee:
@@ -394,13 +394,13 @@ translate spanish home_player_corridor_a21e86ee:
 translate spanish home_player_corridor_af6010dc_1:
 
     # player "Ah merde, j'ai pas vu le temps passer !" id home_player_corridor_af6010dc_1
-    player "Mierda...¡Se esta haciendo tarde!" id home_player_corridor_af6010dc_1
+    player "Mierda... ¡Se está haciendo tarde!" id home_player_corridor_af6010dc_1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:248
 translate spanish home_player_corridor_f5542d4e_1:
 
     # player "J'espere que {color=#32ff7e}{b}[macumba_name]{/b}{/color} ne m'a pas attendu toute la journée..." id home_player_corridor_f5542d4e_1
-    player "Espero que {color=#32ff7e}{b}[macumba_name]{/b}{/color} no haya esperado por mi todo el día..." id home_player_corridor_f5542d4e_1
+    player "Espero que {color=#32ff7e}{b}[macumba_name]{/b}{/color} no me haya esperado todo el día..." id home_player_corridor_f5542d4e_1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:264
 translate spanish home_player_corridor_ce44d7ee:
@@ -418,7 +418,7 @@ translate spanish home_player_corridor_9cd7ca42:
 translate spanish home_player_corridor_70871f4d:
 
     # x "Nooon elle est tout de même pas en train de faire ce que je crois ?!" id home_player_corridor_70871f4d
-    x "No... Ella no esta haciendo lo que creo que esta haciendo, ¿verdad?" id home_player_corridor_70871f4d
+    x "No... Ella no está haciendo lo que creo que está haciendo, ¿verdad?" id home_player_corridor_70871f4d
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:270
 translate spanish home_player_corridor_9a20b792:
@@ -436,7 +436,7 @@ translate spanish home_player_corridor_b1c03ba5:
 translate spanish home_player_corridor_b6398ec1:
 
     # norikoc "oohhh voila..." id home_player_corridor_b6398ec1
-    norikoc "Ohhhhh Si..." id home_player_corridor_b6398ec1
+    norikoc "Ohhhhh si..." id home_player_corridor_b6398ec1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:273
 translate spanish home_player_corridor_6cdb64c2:
@@ -454,43 +454,43 @@ translate spanish home_player_corridor_c317db21:
 translate spanish home_player_corridor_457162a5:
 
     # x "C'est... chaud!" id home_player_corridor_457162a5
-    x "¡Esto es bueno!" id home_player_corridor_457162a5
+    x "¡Es tan caliente!" id home_player_corridor_457162a5
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:278
 translate spanish home_player_corridor_748684b1:
 
     # norikoc "hummm... Oui" id home_player_corridor_748684b1
-    norikoc "Hummmm...Yes" id home_player_corridor_748684b1
+    norikoc "Hummmm...Si" id home_player_corridor_748684b1
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:279
 translate spanish home_player_corridor_963bae77:
 
     # x "Finalement tout ce qui s'est passé l'a térriblement excitée..." id home_player_corridor_963bae77
-    x "Lo que paso hoy debio de haberla excitado..." id home_player_corridor_963bae77
+    x "Lo que paso hoy debe haberla excitado..." id home_player_corridor_963bae77
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:282
 translate spanish home_player_corridor_b214b8fe:
 
     # x "Ca valait le coup de se revivre rien que pour ce moment!" id home_player_corridor_b214b8fe
-    x "¡Obtener esa vida extra valio la pena solo por este momento!" id home_player_corridor_b214b8fe
+    x "¡Obtener esta vida extra valió la pena solo por este momento!" id home_player_corridor_b214b8fe
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:283
 translate spanish home_player_corridor_79e8986b:
 
     # x "Sacrée {color=#fd79a8}{b}[noriko_name]{/b}{/color}..." id home_player_corridor_79e8986b
-    x "Me va a volver loco..." id home_player_corridor_79e8986b
+    x "Me voy a volver loco..." id home_player_corridor_79e8986b
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:285
 translate spanish home_player_corridor_a50ef803:
 
     # x "J'imagine qu'elle devait etre sacrement frustrée" id home_player_corridor_a50ef803
-    x "Ella debe de estar bastante frustrada" id home_player_corridor_a50ef803
+    x "Debió de estar tan frustrada" id home_player_corridor_a50ef803
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:286
 translate spanish home_player_corridor_cd15d2f2:
 
     # x "Je pense qu'elle a terminée..." id home_player_corridor_cd15d2f2
-    x "Mh. Creo que ya termino..." id home_player_corridor_cd15d2f2
+    x "Creo que ya termino..." id home_player_corridor_cd15d2f2
 
 # game/scripts/story/residential district/player's home/home_player_corridor.rpy:287
 translate spanish home_player_corridor_2fe96b66:
@@ -510,7 +510,7 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:113
     old "L'ignorer"
-    new "Ignorala"
+    new "Ignórala"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:113
     old "L'envoyer chier"
@@ -518,7 +518,7 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:172
     old "Vous avez activé l'enregistreur audio de votre tablette."
-    new "Haz activado el grabador de audio de tu mesa"
+    new "Has activado el grabador de audio de tu mesa"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:188
     old "Retournez voir {color=#32ff7e}{b}%s{/b}{/color}\net donnez lui votre Baladeur CD!"
@@ -526,11 +526,11 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:189
     old "{color=#fd79a8}{b}%s{/b}{/color} à enfin eu ce qu'elle\nméritait, je suis libre a présent!"
-    new "{color=#fd79a8}{b}%s{/b}{/color} finalmente obtuvo lo que se \nmerecia, ¡Soy libre ahora!"
+    new "{color=#fd79a8}{b}%s{/b}{/color} finalmente obtuvo lo que se \nmerecía, ¡Soy libre ahora!"
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:223
     old "Je la tiens, il est enfin temps de se venger\nde toutes les crasses qu'elle ma fait subir."
-    new "Finalmente es hora de vengarse \npor toda la mierda por la que ella me hizo pasar."
+    new "Finalmente es hora de vengarme \npor toda la mierda que me hizo pasar."
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:267
     old "Coller son oreille contre la porte"
@@ -542,5 +542,5 @@ translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_corridor.rpy:280
     old "Continuer d'écouter"
-    new "Continua escuchando"
+    new "Continuar escuchando"
 

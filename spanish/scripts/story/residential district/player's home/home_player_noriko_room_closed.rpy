@@ -10,7 +10,7 @@ translate spanish home_player_noriko_room_closed_3a300f9c:
 translate spanish home_player_noriko_room_closed_ab417b7e:
 
     # x "Rajouter de l'huile sur le feu n'aidera personne." id home_player_noriko_room_closed_ab417b7e
-    x "Agregar aceite al fuego no va a ayudar a nadie" id home_player_noriko_room_closed_ab417b7e
+    x "Echarle más aceite al fuego no ayudara en nada." id home_player_noriko_room_closed_ab417b7e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:32
 translate spanish home_player_noriko_room_closed_303ba0ac:
@@ -34,7 +34,7 @@ translate spanish home_player_noriko_room_closed_9650078c:
 translate spanish home_player_noriko_room_closed_5308c43e:
 
     # player "{color=#fd79a8}{b}[noriko_name]{/b}{/color}... Ahem... Je peux te parler un instant ?" id home_player_noriko_room_closed_5308c43e
-    player "{color=#fd79a8}{b}[noriko_name]{/b}{/color}...hey...¿puedo hablarte por un segundo?" id home_player_noriko_room_closed_5308c43e
+    player "{color=#fd79a8}{b}[noriko_name]{/b}{/color}...Hey...¿Puedo hablarte por un segundo?" id home_player_noriko_room_closed_5308c43e
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:42
 translate spanish home_player_noriko_room_closed_29cd7803:
@@ -64,43 +64,43 @@ translate spanish home_player_noriko_room_closed_a1d6bd2c:
 translate spanish home_player_noriko_room_closed_1ed63590:
 
     # x "Bon... Il va falloir trouver une stratégie plus efficace..." id home_player_noriko_room_closed_1ed63590
-    x "Bueno...sera mejor encontrar otra tactica" id home_player_noriko_room_closed_1ed63590
+    x "Bueno... será mejor encontrar otra táctica." id home_player_noriko_room_closed_1ed63590
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:57
 translate spanish home_player_noriko_room_closed_a2a2c4f6:
 
     # x "Elle doit probablement jouer sur son PC, peut-être que..." id home_player_noriko_room_closed_a2a2c4f6
-    x "Ella siempre esta jugando juegos en su PC..." id home_player_noriko_room_closed_a2a2c4f6
+    x "Ella siempre está jugando juegos en su PC..." id home_player_noriko_room_closed_a2a2c4f6
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:58
 translate spanish home_player_noriko_room_closed_3f06fac8:
 
     # x "Si je lui coupe le wifi, je suis certain à 200%% qu'elle va sortir de sa chambre !" id home_player_noriko_room_closed_3f06fac8
-    x "Quizas apagando el wifi ayudara a sacar el demonio de su cueva." id home_player_noriko_room_closed_3f06fac8
+    x "Quizas apagando el wifi, sacare a el demonio de su cueva." id home_player_noriko_room_closed_3f06fac8
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:59
 translate spanish home_player_noriko_room_closed_7a9b7c49:
 
     # x "Le routeur doit être dans le {color=#efdf31}{b}salon{/b}{/color}." id home_player_noriko_room_closed_7a9b7c49
-    x "el router esta en la {color=#efdf31}{b}Sala de estar{/b}{/color}" id home_player_noriko_room_closed_7a9b7c49
+    x "El router esta en la {color=#efdf31}{b}Sala de estar{/b}{/color}" id home_player_noriko_room_closed_7a9b7c49
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:60
 translate spanish home_player_noriko_room_closed_d6ed5375:
 
     # x "Il va falloir être rapide !" id home_player_noriko_room_closed_d6ed5375
-    x "Tengo que ser rapido" id home_player_noriko_room_closed_d6ed5375
+    x "Tengo que ser rápido" id home_player_noriko_room_closed_d6ed5375
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:71
 translate spanish home_player_noriko_room_closed_9cdc86e1:
 
     # x "Non si je rentre ici {color=#fd79a8}{b}[noriko_name]{/b}{/color} va encore claquer un scandale." id home_player_noriko_room_closed_9cdc86e1
-    x "No, sera mejor que me retire. {color=#fd79a8}{b}[noriko_name]{/b}{/color} va a armar otro escandalo" id home_player_noriko_room_closed_9cdc86e1
+    x "No, será mejor que me retire. {color=#fd79a8}{b}[noriko_name]{/b}{/color} va a armar otro escandalo" id home_player_noriko_room_closed_9cdc86e1
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:72
 translate spanish home_player_noriko_room_closed_127b90d2:
 
     # x "Evitons les effusions de sang inutiles..." id home_player_noriko_room_closed_127b90d2
-    x "Es mejor evadir derramamiento de sangre innecesario" id home_player_noriko_room_closed_127b90d2
+    x "Es mejor evadir derramamientos de sangre innecesarios." id home_player_noriko_room_closed_127b90d2
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:81
 translate spanish home_player_noriko_room_closed_cb8d0dec:
@@ -112,23 +112,23 @@ translate spanish home_player_noriko_room_closed_cb8d0dec:
 translate spanish home_player_noriko_room_closed_f0922e63:
 
     # norikoc "Casse toi le parasite !" id home_player_noriko_room_closed_f0922e63
-    norikoc "¡Pudrete, parasito!" id home_player_noriko_room_closed_f0922e63
+    norikoc "¡Púdrete, parasito!" id home_player_noriko_room_closed_f0922e63
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:85
 translate spanish home_player_noriko_room_closed_66f14ba0:
 
     # x "Maintenant que j'ai la paix je vais eviter d'en rajouter." id home_player_noriko_room_closed_66f14ba0
-    x "Ahora que tengo algo de paz, no quiero mas problemas" id home_player_noriko_room_closed_66f14ba0
+    x "Ahora que tengo algo de paz, no quiero más problemas" id home_player_noriko_room_closed_66f14ba0
 
 # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:87
 translate spanish home_player_noriko_room_closed_1921195d:
 
     # x "Je ferais mieux d'aller dormir moi aussi." id home_player_noriko_room_closed_1921195d
-    x "Sera mejor que me vaya a dormir tambien" id home_player_noriko_room_closed_1921195d
+    x "Sera mejor que me vaya a dormir también" id home_player_noriko_room_closed_1921195d
 
 translate spanish strings:
 
     # game/scripts/story/residential district/player's home/home_player_noriko_room_closed.rpy:25
     old "Le wifi est dans le {color=ffff00}{b}salon{/b}{/color}."
-    new "El wifi esta en la {color=#ffff00}{b}sala de estar{/b}{/color}"
+    new "El wifi esta en la {color=#ffff00}{b}Sala de estar{/b}{/color}"
 
